@@ -1,0 +1,16 @@
+{
+  "kits": {
+    "firstjoinkit": {
+      "ignoresPermission": false,
+      "displayMessage": true,
+      "cost": 0.0,
+      "firstJoin": true,
+      "hidden": true,
+      "stacks": [],
+      "autoRedeem": false,
+      "interval": 0,
+      "oneTime": false,
+      "commands": []
+    }
+  }
+}

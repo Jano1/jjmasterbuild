@@ -1,0 +1,94 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  IC2core (industrialcraft-2-2.7.72-ex111.jar)
+  SpongeCoremod (spongeforge-1.11.2-2315-6.1.0-BETA-2410.jar)
+Contact their authors BEFORE contacting forge
+
+// Hi. I'm Minecraft, and I'm a crashaholic.
+
+Time: 27.06.17 01:57
+Description: Exception in server tick loop
+
+Missing Mods:
+	pjc : any
+
+net.minecraftforge.fml.common.MissingModsException: Mod pjp (Project Portals) requires [pjc]
+	at net.minecraftforge.fml.common.Loader.sortModList(Loader.java:271)
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:559)
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:332)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:121)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:442)
+	at java.lang.Thread.run(Unknown Source)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server thread
+Stacktrace:
+	at net.minecraftforge.fml.common.Loader.sortModList(Loader.java:271)
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:559)
+
+-- Sponge CauseTracker --
+Details:
+	Cause Stack: [Empty stack]
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.handler$onCrashReport$zhj000(MinecraftServer.java:3958)
+	at net.minecraft.server.MinecraftServer.func_71230_b(MinecraftServer.java:840)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71230_b(DedicatedServer.java:358)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:514)
+	at java.lang.Thread.run(Unknown Source)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.11.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_131, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 439860528 bytes (419 MB) / 827850752 bytes (789 MB) up to 1908932608 bytes (1820 MB)
+	JVM Flags: 2 total; -Xms128M -Xmx2G
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP 9.38 Powered by Forge 13.20.0.2366 31 mods loaded, 31 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+	U	minecraft{1.11.2} [Minecraft] (minecraft.jar) 
+	U	mcp{9.19} [Minecraft Coder Pack] (minecraft.jar) 
+	U	FML{8.0.99.99} [Forge Mod Loader] (forge-1.11.2-13.20.0.2366-universal.jar) 
+	U	forge{13.20.0.2366} [Minecraft Forge] (forge-1.11.2-13.20.0.2366-universal.jar) 
+	U	spongeapi{6.1.0-SNAPSHOT-a15cc3e} [SpongeAPI] (spongeforge-1.11.2-2315-6.1.0-BETA-2410.jar) 
+	U	sponge{1.11.2-2315-6.1.0-BETA-2410} [SpongeForge] (spongeforge-1.11.2-2315-6.1.0-BETA-2410.jar) 
+	U	bibliocraft{2.3.2} [BiblioCraft] (BiblioCraft[v2.3.2][MC1.11.2].jar) 
+	U	biomesoplenty{6.2.0.2267} [Biomes O' Plenty] (BiomesOPlenty-1.11.2-6.2.0.2267-universal.jar) 
+	U	extrautils2{1.0} [extrautils2] (extrautils2-1.11.2-1.4.4.jar) 
+	U	ic2{2.7.72-ex111} [IndustrialCraft 2] (industrialcraft-2-2.7.72-ex111.jar) 
+	U	inventorypets{1.4.9.5} [Inventory Pets] (inventorypets-1.11.2-1.4.9.5.jar) 
+	U	jei{4.5.0.290} [Just Enough Items] (jei_1.11.2-4.5.0.290.jar) 
+	U	journeymap{1.11.2-5.4.7} [JourneyMap] (journeymap-1.11.2-5.4.7.jar) 
+	U	levelup2{${version}} [Level Up! Reloaded] (Level Up! 2-1.0.4-1.11.2.jar) 
+	U	levels{r1.2.8} [Levels] (Levels 2-1.11.2-r1.2.8.jar) 
+	U	mantle{1.11.2-1.2.0.26} [Mantle] (Mantle-1.11.2-1.2.0.26.jar) 
+	U	harvestcraft{1.11.2g} [Pam's HarvestCraft] (Pam's HarvestCraft 1.11.2h.jar) 
+	U	rftools{6.01} [RFTools] (rftools-1.1x-6.01.jar) 
+	U	tconstruct{1.11.2-2.7.0.26} [Tinkers' Construct] (TConstruct-1.11.2-2.7.0.26.jar) 
+	U	boop{1.4.5} [Boop] (Boop-1.4.5.jar) 
+	U	economylite{2.12.0} [EconomyLite] (EconomyLite-5.0.0-2.12.0.jar) 
+	U	griefprevention{1.11.2-3.1.1.294} [GriefPrevention] (griefprevention-1.11.2-3.1.1.294.jar) 
+	U	jobslite{1.7.0} [JobsLite] (JobsLite-1.7.0.jar) 
+	U	luckperms{3.2.21} [LuckPerms] (LuckPerms-Sponge-3.2.21.jar) 
+	U	mcclans{1.5} [MCClans] (MCClans-1.5.jar) 
+	U	nucleus{1.0.0-S6.0} [Nucleus] (Nucleus-1.0.0-1.11.2-1.12-S6.0-plugin.jar) 
+	U	payday{1.1.0} [PayDay] (PayDay-1.1.0.jar) 
+	U	placeholderapi{3.11} [PlaceholderAPI] (PlaceholderAPI-3.11.jar) 
+	U	pjp{0.13.7} [Project Portals] (project.portals-5.2.0-0.13.7.jar) 
+	U	serverlistplus{3.4.7} [ServerListPlus] (ServerListPlus-3.4.7-Universal.jar) 
+	U	ultimatechat{1.7.1} [UltimateChat] (UltimateChat-1.7.1-b22.jar) 
+	Loaded coremods (and transformers): 
+IC2core (industrialcraft-2-2.7.72-ex111.jar)
+  
+SpongeCoremod (spongeforge-1.11.2-2315-6.1.0-BETA-2410.jar)
+  org.spongepowered.common.launch.transformer.SpongeSuperclassTransformer
+	Profiler Position: N/A (disabled)
+	Is Modded: Definitely; Server brand changed to 'fml,forge,sponge'
+	Type: Dedicated Server (map_server.txt)
