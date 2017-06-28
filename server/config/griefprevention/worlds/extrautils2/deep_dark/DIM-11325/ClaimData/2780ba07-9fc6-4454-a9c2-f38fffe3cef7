@@ -24,5 +24,5 @@ GriefPrevention {
     requires-claim-blocks=true
     resizable=true
     subdivisions {}
-    world-uuid="8768376a-8fd5-43c8-b6ea-fc033f5411b3"
+    world-uuid="018073a2-0950-43ae-af2e-aec3ee040638"
 }

@@ -1,7 +1,7 @@
 {
   "lastKnownName": "Jano1",
-  "lastLogin": 1498521614139,
-  "lastLogout": 1498521131460,
+  "lastLogin": 1498682138751,
+  "lastLogout": 1498668232307,
   "lastIP": "/127.0.0.1",
   "firstJoin": 0,
   "startedFirstJoin": false,
@@ -15,14 +15,13 @@
     "rotx": 0.0,
     "rotz": 0.0,
     "roty": 0.0,
-    "x": 4951.634520768204,
-    "y": 109.0,
-    "z": -447.71109865406424
+    "x": 34.00947792591395,
+    "y": 77.0,
+    "z": 630.8256891861448
   },
   "powertoolToggle": true,
-  "powertools": {},
+  "notes": [],
   "warnings": [],
   "mail": [],
-  "notes": [],
   "kitLastUsedTime": {}
 }

@@ -1,7 +1,7 @@
 var colorpalette={
   "version": 5.3,
   "name": "JourneyMap Color Palette",
-  "generated": "Generated using JourneyMap 1.11.2-5.4.7 for 1.11.2 on Tue Jun 27 01:43:50 CEST 2017",
+  "generated": "Generated using JourneyMap 1.11.2-5.4.7 for 1.11.2 on Wed Jun 28 22:35:12 CEST 2017",
   "description": [
     "This file can be used to keep map colors consistent when changing resource packs.",
     "Edit at your own risk. You can view it using the colorpalette.html file.",
@@ -10,8 +10,8 @@ var colorpalette={
     "For more information, go to: http://journeymap.info/Color_Palette"
   ],
   "permanent": false,
-  "resourcePacks": "Conquest_1.11.zip:zip",
-  "modNames": "BiblioCraft:2.3.2, Biomes O\u0027 Plenty:6.2.0.2267, Forge Mod Loader:8.0.99.99, IndustrialCraft 2:2.7.72-ex111, Inventory Pets:1.4.9.5, Inventory Tweaks:1.62-dev-75-f4ba194, JourneyMap:1.11.2-5.4.7, Just Enough Items:4.5.0.290, Level Up! Reloaded:${version}, Levels:r1.2.8, Mantle:1.11.2-1.2.0.26, Minecraft Coder Pack:9.19, Minecraft Forge:13.20.0.2366, Minecraft:1.11.2, Pam\u0027s HarvestCraft:1.11.2g, RFTools:6.01, Tinkers\u0027 Construct:1.11.2-2.7.0.26, extrautils2:1.0, waila:1.7.1",
+  "resourcePacks": "Conquest_1.11.zip:zip, Skyrim_soundpack_v4.2 (not final verison).zip:zip",
+  "modNames": "AppleCore:2.2.0, BC Builders:7.99.4, BC Energy:7.99.4, BC Factory:7.99.4, BC Robotics:7.99.4, BC Silicon:7.99.4, BC Transport:7.99.4, BiblioCraft:2.3.2, Biomes O\u0027 Plenty:6.2.0.2267, BuildCraft Lib:7.99.4, BuildCraft:7.99.4, CTM:MC1.11.2-0.1.1.6, Chisel:MC1.11.2-0.0.11.18, Energy Converters:1.0.0.18, Forge Mod Loader:8.0.99.99, Immersive Engineering:0.11-62, IndustrialCraft 2:2.7.72-ex111, Inventory Pets:1.4.9.5, Inventory Tweaks:1.62-dev-75-f4ba194, JourneyMap:1.11.2-5.4.7, Just Enough Items:4.5.0.290, Level Up! Reloaded:${version}, Levels:r1.2.8, Mantle:1.11.2-1.2.0.26, Minecraft Coder Pack:9.19, Minecraft Forge:13.20.0.2366, Minecraft:1.11.2, Ore Shrubs:1.3.0, Pam\u0027s HarvestCraft:1.11.2g, RFTools:6.01, The Spice of Life:1.3.8, Tinkers\u0027 Construct:1.11.2-2.7.0.26, UniDict:1.11.2-1.0, ViesCraft:4.38.44, Waila Harvestability:1.1.10, Waila:1.8.15, WanionLib:1.11.2-1.1, XNet:1.3.2, extrautils2:1.0",
   "blockColors": [
     {
       "uid": "biomesoplenty:ash_block",
@@ -1994,6 +1994,7418 @@ var colorpalette={
           "meta": 15
         }
       ]
+    },
+    {
+      "uid": "buildcraftbuilders:architect",
+      "name": "Architect Table",
+      "color": "#c1c1c1",
+      "alpha": 1.0,
+      "meta": 7
+    },
+    {
+      "uid": "buildcraftbuilders:builder",
+      "name": "Builder",
+      "color": "#b2b2b2",
+      "alpha": 1.0,
+      "meta": 3
+    },
+    {
+      "uid": "buildcraftbuilders:filler",
+      "name": "Filler",
+      "color": "#bdbdbd",
+      "alpha": 1.0,
+      "meta": 3
+    },
+    {
+      "uid": "buildcraftbuilders:frame",
+      "name": "Frame",
+      "color": "#9d6128",
+      "alpha": 1.0,
+      "meta": 0
+    },
+    {
+      "uid": "buildcraftbuilders:library",
+      "name": "Electronic Library",
+      "color": "#c2c2c2",
+      "alpha": 1.0,
+      "meta": 3
+    },
+    {
+      "uid": "buildcraftbuilders:quarry",
+      "name": "Quarry",
+      "color": "#b7b7b7",
+      "alpha": 1.0,
+      "meta": 3
+    },
+    {
+      "uid": "buildcraftcore:marker_path",
+      "name": "Path Mark",
+      "color": "#7b9352",
+      "alpha": 1.0,
+      "meta": 5
+    },
+    {
+      "uid": "buildcraftcore:marker_volume",
+      "name": "Land Mark",
+      "color": "#808d8e",
+      "alpha": 1.0,
+      "meta": 5
+    },
+    {
+      "uid": "buildcraftcore:spring",
+      "name": "Oil Spring",
+      "color": "#373a2b",
+      "alpha": 1.0,
+      "meta": 1
+    },
+    {
+      "uid": "buildcraftenergy:fluid_block_fuel_dense_heat_0",
+      "name": "Air",
+      "color": "#e4860a",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "buildcraftenergy:fluid_block_fuel_dense_heat_1",
+      "name": "Air",
+      "color": "#e4860a",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "buildcraftenergy:fluid_block_fuel_dense_heat_2",
+      "name": "Air",
+      "color": "#e4860a",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "buildcraftenergy:fluid_block_fuel_gaseous_heat_0",
+      "name": "Air",
+      "color": "#e3dd07",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "buildcraftenergy:fluid_block_fuel_gaseous_heat_1",
+      "name": "Air",
+      "color": "#e3dd07",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "buildcraftenergy:fluid_block_fuel_gaseous_heat_2",
+      "name": "Air",
+      "color": "#e3dd07",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "buildcraftenergy:fluid_block_fuel_light_heat_0",
+      "name": "Air",
+      "color": "#e8d607",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "buildcraftenergy:fluid_block_fuel_light_heat_1",
+      "name": "Air",
+      "color": "#e8d607",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "buildcraftenergy:fluid_block_fuel_light_heat_2",
+      "name": "Air",
+      "color": "#e8d607",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "buildcraftenergy:fluid_block_fuel_mixed_heavy_heat_0",
+      "name": "Air",
+      "color": "#cb8b00",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "buildcraftenergy:fluid_block_fuel_mixed_heavy_heat_1",
+      "name": "Air",
+      "color": "#cb8b00",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "buildcraftenergy:fluid_block_fuel_mixed_heavy_heat_2",
+      "name": "Air",
+      "color": "#cb8b00",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "buildcraftenergy:fluid_block_fuel_mixed_light_heat_0",
+      "name": "Air",
+      "color": "#cbbb00",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "buildcraftenergy:fluid_block_fuel_mixed_light_heat_1",
+      "name": "Air",
+      "color": "#cbbb00",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "buildcraftenergy:fluid_block_fuel_mixed_light_heat_2",
+      "name": "Air",
+      "color": "#cbbb00",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "buildcraftenergy:fluid_block_oil_dense_heat_0",
+      "name": "Air",
+      "color": "#4d2f31",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "buildcraftenergy:fluid_block_oil_dense_heat_1",
+      "name": "Air",
+      "color": "#4d2f31",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "buildcraftenergy:fluid_block_oil_dense_heat_2",
+      "name": "Air",
+      "color": "#4d2f31",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "buildcraftenergy:fluid_block_oil_distilled_heat_0",
+      "name": "Air",
+      "color": "#ae9613",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "buildcraftenergy:fluid_block_oil_distilled_heat_1",
+      "name": "Air",
+      "color": "#ae9613",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "buildcraftenergy:fluid_block_oil_distilled_heat_2",
+      "name": "Air",
+      "color": "#ae9613",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "buildcraftenergy:fluid_block_oil_heat_0",
+      "name": "Air",
+      "color": "#111111",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "buildcraftenergy:fluid_block_oil_heat_1",
+      "name": "Air",
+      "color": "#111111",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "buildcraftenergy:fluid_block_oil_heat_2",
+      "name": "Air",
+      "color": "#111111",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "buildcraftenergy:fluid_block_oil_heavy_heat_0",
+      "name": "Air",
+      "color": "#51431f",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "buildcraftenergy:fluid_block_oil_heavy_heat_1",
+      "name": "Air",
+      "color": "#51431f",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "buildcraftenergy:fluid_block_oil_heavy_heat_2",
+      "name": "Air",
+      "color": "#51431f",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "buildcraftenergy:fluid_block_oil_residue_heat_0",
+      "name": "Air",
+      "color": "#390f39",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "buildcraftenergy:fluid_block_oil_residue_heat_1",
+      "name": "Air",
+      "color": "#390f39",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "buildcraftenergy:fluid_block_oil_residue_heat_2",
+      "name": "Air",
+      "color": "#390f39",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "buildcraftfactory:autoworkbench_item",
+      "name": "Auto Workbench",
+      "color": "#664e37",
+      "alpha": 1.0,
+      "meta": 0
+    },
+    {
+      "uid": "buildcraftfactory:chute",
+      "name": "Chute",
+      "color": "#5c5c5c",
+      "alpha": 1.0,
+      "meta": 5
+    },
+    {
+      "uid": "buildcraftfactory:flood_gate",
+      "name": "Flood Gate",
+      "color": "#ababab",
+      "alpha": 1.0,
+      "meta": 0
+    },
+    {
+      "uid": "buildcraftfactory:mining_well",
+      "name": "Mining Well",
+      "color": "#b6b5b2",
+      "alpha": 1.0,
+      "meta": 3
+    },
+    {
+      "uid": "buildcraftfactory:pump",
+      "name": "Pump",
+      "color": "#a6a5a1",
+      "alpha": 1.0,
+      "meta": 0
+    },
+    {
+      "uid": "buildcraftfactory:tank",
+      "name": "Tank",
+      "color": "#881212",
+      "alpha": 1.0,
+      "meta": 0,
+      "variants": [
+        {
+          "color": "#891414",
+          "meta": 0
+        }
+      ]
+    },
+    {
+      "uid": "buildcraftrobotics:zone_planner",
+      "name": "ZonePlanner",
+      "color": "#a0a0a0",
+      "alpha": 1.0,
+      "meta": 3
+    },
+    {
+      "uid": "buildcraftsilicon:advanced_crafting_table",
+      "name": "Advanced Crafting Table",
+      "color": "#49403e",
+      "alpha": 1.0,
+      "meta": 0
+    },
+    {
+      "uid": "buildcraftsilicon:assembly_table",
+      "name": "Assembly Table",
+      "color": "#3f2b32",
+      "alpha": 1.0,
+      "meta": 0
+    },
+    {
+      "uid": "buildcraftsilicon:integration_table",
+      "name": "Integration Table",
+      "color": "#312b33",
+      "alpha": 1.0,
+      "meta": 0
+    },
+    {
+      "uid": "buildcraftsilicon:laser",
+      "name": "Laser",
+      "color": "#221e24",
+      "alpha": 1.0,
+      "meta": 5
+    },
+    {
+      "uid": "buildcrafttransport:filtered_buffer",
+      "name": "Filtered Buffer",
+      "color": "#634932",
+      "alpha": 1.0,
+      "meta": 0
+    },
+    {
+      "uid": "chisel:andesite",
+      "name": "Andesite",
+      "color": "#828283",
+      "alpha": 1.0,
+      "meta": 1,
+      "variants": [
+        {
+          "color": "#818082",
+          "meta": 3
+        },
+        {
+          "color": "#7f7f80",
+          "meta": 5
+        },
+        {
+          "color": "#818183",
+          "meta": 7
+        },
+        {
+          "color": "#7e7e7f",
+          "meta": 8
+        },
+        {
+          "color": "#7c7c7e",
+          "meta": 9
+        },
+        {
+          "color": "#7f7e80",
+          "meta": 11
+        },
+        {
+          "color": "#807f81",
+          "meta": 12
+        },
+        {
+          "color": "#7f7f81",
+          "meta": 13
+        },
+        {
+          "color": "#808082",
+          "meta": 14
+        },
+        {
+          "color": "#808081",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:andesite1",
+      "name": "Andesite",
+      "color": "#808081",
+      "alpha": 1.0,
+      "meta": 3,
+      "variants": [
+        {
+          "color": "#717174",
+          "meta": 1
+        },
+        {
+          "color": "#7f7f81",
+          "meta": 2
+        },
+        {
+          "color": "#828284",
+          "meta": 4
+        },
+        {
+          "color": "#7c7c7f",
+          "meta": 5
+        },
+        {
+          "color": "#7c7c7e",
+          "meta": 7
+        },
+        {
+          "color": "#818082",
+          "meta": 8
+        },
+        {
+          "color": "#7f7f80",
+          "meta": 9
+        },
+        {
+          "color": "#818182",
+          "meta": 10
+        },
+        {
+          "color": "#807f81",
+          "meta": 12
+        },
+        {
+          "color": "#787879",
+          "meta": 13
+        },
+        {
+          "color": "#808082",
+          "meta": 14
+        },
+        {
+          "color": "#78787b",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:andesite2",
+      "name": "Andesite",
+      "color": "#818082",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:antiblock",
+      "name": "Antiblock",
+      "color": "#191919",
+      "alpha": 1.0,
+      "meta": 0,
+      "variants": [
+        {
+          "color": "#ff0a0a",
+          "meta": 1
+        },
+        {
+          "color": "#5e8c01",
+          "meta": 2
+        },
+        {
+          "color": "#8a4401",
+          "meta": 3
+        },
+        {
+          "color": "#1d49ff",
+          "meta": 4
+        },
+        {
+          "color": "#9d22ff",
+          "meta": 5
+        },
+        {
+          "color": "#0198e5",
+          "meta": 6
+        },
+        {
+          "color": "#999999",
+          "meta": 7
+        },
+        {
+          "color": "#4c4c4c",
+          "meta": 8
+        },
+        {
+          "color": "#ff7aa6",
+          "meta": 9
+        },
+        {
+          "color": "#79d401",
+          "meta": 10
+        },
+        {
+          "color": "#ebeb01",
+          "meta": 11
+        },
+        {
+          "color": "#519fff",
+          "meta": 12
+        },
+        {
+          "color": "#ca3aff",
+          "meta": 13
+        },
+        {
+          "color": "#fd7501",
+          "meta": 14
+        },
+        {
+          "color": "#ffffff",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:basalt",
+      "name": "Basalt",
+      "color": "#323232",
+      "alpha": 1.0,
+      "meta": 14,
+      "variants": [
+        {
+          "color": "#363636",
+          "meta": 1
+        },
+        {
+          "color": "#333333",
+          "meta": 7
+        },
+        {
+          "color": "#303030",
+          "meta": 10
+        },
+        {
+          "color": "#313131",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:basalt1",
+      "name": "Basalt",
+      "color": "#313131",
+      "alpha": 1.0,
+      "meta": 5,
+      "variants": [
+        {
+          "color": "#2c2c2c",
+          "meta": 1
+        },
+        {
+          "color": "#333333",
+          "meta": 4
+        },
+        {
+          "color": "#303030",
+          "meta": 7
+        },
+        {
+          "color": "#323232",
+          "meta": 9
+        },
+        {
+          "color": "#ffffff",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:basalt2",
+      "name": "Basalt",
+      "color": "#323232",
+      "alpha": 1.0,
+      "meta": 6,
+      "variants": [
+        {
+          "color": "#313131",
+          "meta": 4
+        },
+        {
+          "color": "#2f2f2f",
+          "meta": 5
+        },
+        {
+          "color": "#343434",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:block_charcoal",
+      "name": "Block of Charcoal",
+      "color": "#1f1c17",
+      "alpha": 1.0,
+      "meta": 9,
+      "variants": [
+        {
+          "color": "#23201a",
+          "meta": 7
+        },
+        {
+          "color": "#201d18",
+          "meta": 11
+        },
+        {
+          "color": "#211e19",
+          "meta": 13
+        },
+        {
+          "color": "#221f19",
+          "meta": 14
+        },
+        {
+          "color": "#221f1a",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:block_charcoal1",
+      "name": "Block of Charcoal",
+      "color": "#171510",
+      "alpha": 1.0,
+      "meta": 1,
+      "variants": [
+        {
+          "color": "#201d18",
+          "meta": 2
+        },
+        {
+          "color": "#23201a",
+          "meta": 4
+        },
+        {
+          "color": "#1f1c16",
+          "meta": 5
+        },
+        {
+          "color": "#1e1b16",
+          "meta": 7
+        },
+        {
+          "color": "#231f1a",
+          "meta": 8
+        },
+        {
+          "color": "#221e19",
+          "meta": 10
+        },
+        {
+          "color": "#211e19",
+          "meta": 12
+        },
+        {
+          "color": "#221f19",
+          "meta": 14
+        },
+        {
+          "color": "#1a1813",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:block_charcoal2",
+      "name": "Block of Charcoal",
+      "color": "#221f1a",
+      "alpha": 1.0,
+      "meta": 0,
+      "variants": [
+        {
+          "color": "#23201a",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:block_coal",
+      "name": "Block of Coal",
+      "color": "#1b1919",
+      "alpha": 1.0,
+      "meta": 10,
+      "variants": [
+        {
+          "color": "#1b1818",
+          "meta": 2
+        },
+        {
+          "color": "#1e1b1b",
+          "meta": 7
+        },
+        {
+          "color": "#1a1818",
+          "meta": 9
+        },
+        {
+          "color": "#1c1919",
+          "meta": 11
+        },
+        {
+          "color": "#1d1a1a",
+          "meta": 14
+        },
+        {
+          "color": "#1c1a1a",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:block_coal1",
+      "name": "Block of Coal",
+      "color": "#1e1c1c",
+      "alpha": 1.0,
+      "meta": 4,
+      "variants": [
+        {
+          "color": "#151212",
+          "meta": 1
+        },
+        {
+          "color": "#1d1a1a",
+          "meta": 3
+        },
+        {
+          "color": "#1c1919",
+          "meta": 5
+        },
+        {
+          "color": "#1a1717",
+          "meta": 7
+        },
+        {
+          "color": "#1e1b1b",
+          "meta": 8
+        },
+        {
+          "color": "#1c1a1a",
+          "meta": 12
+        },
+        {
+          "color": "#171515",
+          "meta": 13
+        },
+        {
+          "color": "#1d1b1b",
+          "meta": 14
+        },
+        {
+          "color": "#181515",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:block_coal2",
+      "name": "Block of Coal",
+      "color": "#1f1c1c",
+      "alpha": 1.0,
+      "meta": 15,
+      "variants": [
+        {
+          "color": "#1e1b1b",
+          "meta": 0
+        }
+      ]
+    },
+    {
+      "uid": "chisel:block_coal_coke",
+      "name": "Block of Coal Coke",
+      "color": "#575765",
+      "alpha": 1.0,
+      "meta": 2,
+      "variants": [
+        {
+          "color": "#5a5a68",
+          "meta": 7
+        },
+        {
+          "color": "#585866",
+          "meta": 11
+        },
+        {
+          "color": "#595967",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:block_coal_coke1",
+      "name": "Block of Coal Coke",
+      "color": "#535361",
+      "alpha": 1.0,
+      "meta": 1,
+      "variants": [
+        {
+          "color": "#585866",
+          "meta": 5
+        },
+        {
+          "color": "#575765",
+          "meta": 7
+        },
+        {
+          "color": "#595967",
+          "meta": 12
+        },
+        {
+          "color": "#545462",
+          "meta": 13
+        },
+        {
+          "color": "#5a5a68",
+          "meta": 14
+        },
+        {
+          "color": "#555563",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:block_coal_coke2",
+      "name": "Block of Coal Coke",
+      "color": "#5a5a68",
+      "alpha": 1.0,
+      "meta": 0,
+      "variants": [
+        {
+          "color": "#5b5b69",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:blockaluminum",
+      "name": "Block of Aluminum",
+      "color": "#909090",
+      "alpha": 1.0,
+      "meta": 0,
+      "variants": [
+        {
+          "color": "#9f9f9f",
+          "meta": 1
+        },
+        {
+          "color": "#9e9e9e",
+          "meta": 2
+        },
+        {
+          "color": "#979797",
+          "meta": 3
+        },
+        {
+          "color": "#8b8a92",
+          "meta": 4
+        },
+        {
+          "color": "#b0b0b0",
+          "meta": 5
+        },
+        {
+          "color": "#6a696f",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:blockbronze",
+      "name": "Block of Bronze",
+      "color": "#cf7904",
+      "alpha": 1.0,
+      "meta": 3,
+      "variants": [
+        {
+          "color": "#c87405",
+          "meta": 0
+        },
+        {
+          "color": "#d98004",
+          "meta": 1
+        },
+        {
+          "color": "#d97f04",
+          "meta": 2
+        },
+        {
+          "color": "#966e2d",
+          "meta": 4
+        },
+        {
+          "color": "#df8f10",
+          "meta": 5
+        },
+        {
+          "color": "#855715",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:blockcobalt",
+      "name": "Block of Cobalt",
+      "color": "#0484a3",
+      "alpha": 1.0,
+      "meta": 5,
+      "variants": [
+        {
+          "color": "#016e7d",
+          "meta": 0
+        },
+        {
+          "color": "#01788e",
+          "meta": 1
+        },
+        {
+          "color": "#01778d",
+          "meta": 2
+        },
+        {
+          "color": "#01768b",
+          "meta": 3
+        },
+        {
+          "color": "#21545d",
+          "meta": 4
+        },
+        {
+          "color": "#0f4f55",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:blockcopper",
+      "name": "Block of Copper",
+      "color": "#a2580e",
+      "alpha": 1.0,
+      "meta": 1,
+      "variants": [
+        {
+          "color": "#954f0a",
+          "meta": 0
+        },
+        {
+          "color": "#a1570d",
+          "meta": 2
+        },
+        {
+          "color": "#9a530c",
+          "meta": 3
+        },
+        {
+          "color": "#705226",
+          "meta": 4
+        },
+        {
+          "color": "#af6419",
+          "meta": 5
+        },
+        {
+          "color": "#674015",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:blockelectrum",
+      "name": "Block of Electrum",
+      "color": "#a98721",
+      "alpha": 1.0,
+      "meta": 0,
+      "variants": [
+        {
+          "color": "#b99527",
+          "meta": 1
+        },
+        {
+          "color": "#b99426",
+          "meta": 2
+        },
+        {
+          "color": "#b08d24",
+          "meta": 3
+        },
+        {
+          "color": "#867a3d",
+          "meta": 4
+        },
+        {
+          "color": "#c1a537",
+          "meta": 5
+        },
+        {
+          "color": "#726121",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:blockgold",
+      "name": "Block of Gold",
+      "color": "#dea319",
+      "alpha": 1.0,
+      "meta": 0,
+      "variants": [
+        {
+          "color": "#e9b320",
+          "meta": 1
+        },
+        {
+          "color": "#eab31f",
+          "meta": 2
+        },
+        {
+          "color": "#e4ab1c",
+          "meta": 3
+        },
+        {
+          "color": "#b0913f",
+          "meta": 4
+        },
+        {
+          "color": "#ecc333",
+          "meta": 5
+        },
+        {
+          "color": "#927324",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:blockinvar",
+      "name": "Block of Invar",
+      "color": "#69736e",
+      "alpha": 1.0,
+      "meta": 3,
+      "variants": [
+        {
+          "color": "#656e69",
+          "meta": 0
+        },
+        {
+          "color": "#6f7a74",
+          "meta": 1
+        },
+        {
+          "color": "#6e7973",
+          "meta": 2
+        },
+        {
+          "color": "#61686c",
+          "meta": 4
+        },
+        {
+          "color": "#7c8882",
+          "meta": 5
+        },
+        {
+          "color": "#4d5354",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:blockiron",
+      "name": "Block of Iron",
+      "color": "#5c5c5c",
+      "alpha": 1.0,
+      "meta": 0,
+      "variants": [
+        {
+          "color": "#656565",
+          "meta": 2
+        },
+        {
+          "color": "#606060",
+          "meta": 3
+        },
+        {
+          "color": "#595861",
+          "meta": 4
+        },
+        {
+          "color": "#727272",
+          "meta": 5
+        },
+        {
+          "color": "#48484c",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:blocklead",
+      "name": "Block of Lead",
+      "color": "#565876",
+      "alpha": 1.0,
+      "meta": 15,
+      "variants": [
+        {
+          "color": "#777ca1",
+          "meta": 0
+        },
+        {
+          "color": "#8389b1",
+          "meta": 1
+        },
+        {
+          "color": "#7683b3",
+          "meta": 2
+        },
+        {
+          "color": "#7c82a8",
+          "meta": 3
+        },
+        {
+          "color": "#7c7794",
+          "meta": 4
+        },
+        {
+          "color": "#9298ba",
+          "meta": 5
+        }
+      ]
+    },
+    {
+      "uid": "chisel:blocknickel",
+      "name": "Block of Nickel",
+      "color": "#c0af70",
+      "alpha": 1.0,
+      "meta": 1,
+      "variants": [
+        {
+          "color": "#b19e60",
+          "meta": 0
+        },
+        {
+          "color": "#c0ae70",
+          "meta": 2
+        },
+        {
+          "color": "#b8a668",
+          "meta": 3
+        },
+        {
+          "color": "#9d976e",
+          "meta": 4
+        },
+        {
+          "color": "#c7ba7c",
+          "meta": 5
+        },
+        {
+          "color": "#7c7345",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:blockplatinum",
+      "name": "Block of Platinum",
+      "color": "#7bb3db",
+      "alpha": 1.0,
+      "meta": 5,
+      "variants": [
+        {
+          "color": "#6493cd",
+          "meta": 0
+        },
+        {
+          "color": "#6ea4d9",
+          "meta": 1
+        },
+        {
+          "color": "#6da3d9",
+          "meta": 2
+        },
+        {
+          "color": "#689bd2",
+          "meta": 3
+        },
+        {
+          "color": "#7788b6",
+          "meta": 4
+        },
+        {
+          "color": "#546c96",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:blocksilver",
+      "name": "Block of Silver",
+      "color": "#809aa0",
+      "alpha": 1.0,
+      "meta": 3,
+      "variants": [
+        {
+          "color": "#7b9398",
+          "meta": 0
+        },
+        {
+          "color": "#87a2a8",
+          "meta": 1
+        },
+        {
+          "color": "#86a1a7",
+          "meta": 2
+        },
+        {
+          "color": "#7d8792",
+          "meta": 4
+        },
+        {
+          "color": "#97b3b8",
+          "meta": 5
+        },
+        {
+          "color": "#5c6972",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:blocksteel",
+      "name": "Block of Steel",
+      "color": "#4e5e65",
+      "alpha": 1.0,
+      "meta": 0,
+      "variants": [
+        {
+          "color": "#58686f",
+          "meta": 1
+        },
+        {
+          "color": "#58676e",
+          "meta": 2
+        },
+        {
+          "color": "#536269",
+          "meta": 3
+        },
+        {
+          "color": "#505662",
+          "meta": 4
+        },
+        {
+          "color": "#66747c",
+          "meta": 5
+        },
+        {
+          "color": "#3d4950",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:blocktin",
+      "name": "Block of Tin",
+      "color": "#7e8c96",
+      "alpha": 1.0,
+      "meta": 1,
+      "variants": [
+        {
+          "color": "#727f87",
+          "meta": 0
+        },
+        {
+          "color": "#7d8b95",
+          "meta": 2
+        },
+        {
+          "color": "#77848e",
+          "meta": 3
+        },
+        {
+          "color": "#737582",
+          "meta": 4
+        },
+        {
+          "color": "#8c9ba4",
+          "meta": 5
+        },
+        {
+          "color": "#575c66",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:blockuranium",
+      "name": "Block of Uranium",
+      "color": "#6a806b",
+      "alpha": 1.0,
+      "meta": 4,
+      "variants": [
+        {
+          "color": "#728e64",
+          "meta": 0
+        },
+        {
+          "color": "#7d9c6f",
+          "meta": 1
+        },
+        {
+          "color": "#7c9b6e",
+          "meta": 2
+        },
+        {
+          "color": "#7b9a6d",
+          "meta": 3
+        },
+        {
+          "color": "#8cad7c",
+          "meta": 5
+        },
+        {
+          "color": "#51664e",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:bookshelf_acacia",
+      "name": "Acacia Bookshelf",
+      "color": "#764230",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:bookshelf_birch",
+      "name": "Birch Bookshelf",
+      "color": "#7d674e",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:bookshelf_darkoak",
+      "name": "Dark Oak Bookshelf",
+      "color": "#282323",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:bookshelf_jungle",
+      "name": "Jungle Bookshelf",
+      "color": "#5a4032",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:bookshelf_oak",
+      "name": "Oak Bookshelf",
+      "color": "#68503a",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:bookshelf_spruce",
+      "name": "Spruce Bookshelf",
+      "color": "#3b352c",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:bricks",
+      "name": "Bricks",
+      "color": "#814f41",
+      "alpha": 1.0,
+      "meta": 11,
+      "variants": [
+        {
+          "color": "#895b4e",
+          "meta": 0
+        },
+        {
+          "color": "#87574a",
+          "meta": 1
+        },
+        {
+          "color": "#865649",
+          "meta": 2
+        },
+        {
+          "color": "#88594c",
+          "meta": 3
+        },
+        {
+          "color": "#8c5e51",
+          "meta": 4
+        },
+        {
+          "color": "#8f6357",
+          "meta": 5
+        },
+        {
+          "color": "#906458",
+          "meta": 6
+        },
+        {
+          "color": "#824f41",
+          "meta": 7
+        },
+        {
+          "color": "#946b5f",
+          "meta": 8
+        },
+        {
+          "color": "#91675c",
+          "meta": 9
+        },
+        {
+          "color": "#9a7368",
+          "meta": 10
+        },
+        {
+          "color": "#8d5f52",
+          "meta": 12
+        },
+        {
+          "color": "#8c5f52",
+          "meta": 13
+        },
+        {
+          "color": "#8a5b4e",
+          "meta": 14
+        },
+        {
+          "color": "#8b5d51",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:bricks1",
+      "name": "Bricks",
+      "color": "#845244",
+      "alpha": 1.0,
+      "meta": 4,
+      "variants": [
+        {
+          "color": "#8c5e52",
+          "meta": 0
+        },
+        {
+          "color": "#886055",
+          "meta": 1
+        },
+        {
+          "color": "#87584c",
+          "meta": 2
+        },
+        {
+          "color": "#8b5d50",
+          "meta": 3
+        },
+        {
+          "color": "#926c62",
+          "meta": 5
+        },
+        {
+          "color": "#8e6054",
+          "meta": 6
+        },
+        {
+          "color": "#8c6053",
+          "meta": 7
+        },
+        {
+          "color": "#876055",
+          "meta": 8
+        },
+        {
+          "color": "#855447",
+          "meta": 9
+        },
+        {
+          "color": "#ffffff",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:bricks2",
+      "name": "Bricks",
+      "color": "#855446",
+      "alpha": 1.0,
+      "meta": 0,
+      "variants": [
+        {
+          "color": "#8e6054",
+          "meta": 1
+        },
+        {
+          "color": "#89594c",
+          "meta": 2
+        },
+        {
+          "color": "#916458",
+          "meta": 3
+        },
+        {
+          "color": "#936d63",
+          "meta": 4
+        },
+        {
+          "color": "#865649",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:brownstone",
+      "name": "Brownstone",
+      "color": "#554e3e",
+      "alpha": 1.0,
+      "meta": 4,
+      "variants": [
+        {
+          "color": "#8a8374",
+          "meta": 0
+        },
+        {
+          "color": "#8b8476",
+          "meta": 1
+        },
+        {
+          "color": "#8b8577",
+          "meta": 2
+        },
+        {
+          "color": "#8b8578",
+          "meta": 3
+        },
+        {
+          "color": "#565040",
+          "meta": 5
+        },
+        {
+          "color": "#575141",
+          "meta": 6
+        },
+        {
+          "color": "#585142",
+          "meta": 7
+        },
+        {
+          "color": "#797162",
+          "meta": 8
+        },
+        {
+          "color": "#7b7465",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:carpet_black",
+      "name": "Black Wool",
+      "color": "#282828",
+      "alpha": 1.0,
+      "meta": 0,
+      "variants": [
+        {
+          "color": "#29203f",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:carpet_blue",
+      "name": "Blue Wool",
+      "color": "#4f4ca3",
+      "alpha": 1.0,
+      "meta": 15,
+      "variants": [
+        {
+          "color": "#353946",
+          "meta": 0
+        }
+      ]
+    },
+    {
+      "uid": "chisel:carpet_brown",
+      "name": "Brown Wool",
+      "color": "#4d2800",
+      "alpha": 1.0,
+      "meta": 0,
+      "variants": [
+        {
+          "color": "#975f27",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:carpet_cyan",
+      "name": "Cyan Wool",
+      "color": "#bc9533",
+      "alpha": 1.0,
+      "meta": 0,
+      "variants": [
+        {
+          "color": "#3bb2a5",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:carpet_gray",
+      "name": "Gray Wool",
+      "color": "#515151",
+      "alpha": 1.0,
+      "meta": 0,
+      "variants": [
+        {
+          "color": "#594141",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:carpet_green",
+      "name": "Green Wool",
+      "color": "#104317",
+      "alpha": 1.0,
+      "meta": 15,
+      "variants": [
+        {
+          "color": "#033a1c",
+          "meta": 0
+        }
+      ]
+    },
+    {
+      "uid": "chisel:carpet_lightblue",
+      "name": "Light Blue Wool",
+      "color": "#9ee0ff",
+      "alpha": 1.0,
+      "meta": 15,
+      "variants": [
+        {
+          "color": "#6482bf",
+          "meta": 0
+        }
+      ]
+    },
+    {
+      "uid": "chisel:carpet_lightgray",
+      "name": "Light Gray Wool",
+      "color": "#967957",
+      "alpha": 1.0,
+      "meta": 0,
+      "variants": [
+        {
+          "color": "#a6949a",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:carpet_lime",
+      "name": "Lime Wool",
+      "color": "#b3c880",
+      "alpha": 1.0,
+      "meta": 15,
+      "variants": [
+        {
+          "color": "#51764c",
+          "meta": 0
+        }
+      ]
+    },
+    {
+      "uid": "chisel:carpet_magenta",
+      "name": "Magenta Wool",
+      "color": "#d57db4",
+      "alpha": 1.0,
+      "meta": 15,
+      "variants": [
+        {
+          "color": "#9f749d",
+          "meta": 0
+        }
+      ]
+    },
+    {
+      "uid": "chisel:carpet_orange",
+      "name": "Orange Wool",
+      "color": "#f7983f",
+      "alpha": 1.0,
+      "meta": 15,
+      "variants": [
+        {
+          "color": "#d7a458",
+          "meta": 0
+        }
+      ]
+    },
+    {
+      "uid": "chisel:carpet_pink",
+      "name": "Pink Wool",
+      "color": "#ce93ab",
+      "alpha": 1.0,
+      "meta": 0,
+      "variants": [
+        {
+          "color": "#f9aee3",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:carpet_purple",
+      "name": "Purple Wool",
+      "color": "#2c092b",
+      "alpha": 1.0,
+      "meta": 15,
+      "variants": [
+        {
+          "color": "#8c0c3a",
+          "meta": 0
+        }
+      ]
+    },
+    {
+      "uid": "chisel:carpet_red",
+      "name": "Red Wool",
+      "color": "#d56031",
+      "alpha": 1.0,
+      "meta": 0,
+      "variants": [
+        {
+          "color": "#e05d25",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:carpet_white",
+      "name": "Wool",
+      "color": "#a0a0a0",
+      "alpha": 1.0,
+      "meta": 0,
+      "variants": [
+        {
+          "color": "#d7cabd",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:carpet_yellow",
+      "name": "Yellow Wool",
+      "color": "#f4dc6e",
+      "alpha": 1.0,
+      "meta": 15,
+      "variants": [
+        {
+          "color": "#c3961c",
+          "meta": 0
+        }
+      ]
+    },
+    {
+      "uid": "chisel:cloud",
+      "name": "Cloud",
+      "color": "#fcfcfc",
+      "alpha": 1.0,
+      "meta": 0,
+      "variants": [
+        {
+          "color": "#eaeaea",
+          "meta": 1
+        },
+        {
+          "color": "#dcdcdc",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:cobblestone",
+      "name": "Cobblestone",
+      "color": "#747474",
+      "alpha": 1.0,
+      "meta": 3,
+      "variants": [
+        {
+          "color": "#767676",
+          "meta": 7
+        },
+        {
+          "color": "#6f6f6f",
+          "meta": 9
+        },
+        {
+          "color": "#707070",
+          "meta": 10
+        },
+        {
+          "color": "#727272",
+          "meta": 13
+        },
+        {
+          "color": "#737373",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:cobblestone1",
+      "name": "Cobblestone",
+      "color": "#737373",
+      "alpha": 1.0,
+      "meta": 6,
+      "variants": [
+        {
+          "color": "#676767",
+          "meta": 1
+        },
+        {
+          "color": "#767676",
+          "meta": 4
+        },
+        {
+          "color": "#707070",
+          "meta": 7
+        },
+        {
+          "color": "#6f6f6f",
+          "meta": 8
+        },
+        {
+          "color": "#757575",
+          "meta": 9
+        },
+        {
+          "color": "#ffffff",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:cobblestone2",
+      "name": "Cobblestone",
+      "color": "#747474",
+      "alpha": 1.0,
+      "meta": 6,
+      "variants": [
+        {
+          "color": "#727272",
+          "meta": 1
+        },
+        {
+          "color": "#737373",
+          "meta": 2
+        },
+        {
+          "color": "#717171",
+          "meta": 4
+        },
+        {
+          "color": "#6c6c6c",
+          "meta": 5
+        },
+        {
+          "color": "#7f7f7f",
+          "meta": 7
+        },
+        {
+          "color": "#808080",
+          "meta": 8
+        },
+        {
+          "color": "#9f9f9f",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:cobblestonemossy",
+      "name": "Mossy Cobblestone",
+      "color": "#747474",
+      "alpha": 1.0,
+      "meta": 3,
+      "variants": [
+        {
+          "color": "#767676",
+          "meta": 7
+        },
+        {
+          "color": "#6f6f6f",
+          "meta": 9
+        },
+        {
+          "color": "#707070",
+          "meta": 10
+        },
+        {
+          "color": "#727272",
+          "meta": 13
+        },
+        {
+          "color": "#737373",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:cobblestonemossy1",
+      "name": "Mossy Cobblestone",
+      "color": "#737373",
+      "alpha": 1.0,
+      "meta": 10,
+      "variants": [
+        {
+          "color": "#676767",
+          "meta": 1
+        },
+        {
+          "color": "#767676",
+          "meta": 4
+        },
+        {
+          "color": "#707070",
+          "meta": 7
+        },
+        {
+          "color": "#727272",
+          "meta": 9
+        },
+        {
+          "color": "#717171",
+          "meta": 12
+        },
+        {
+          "color": "#6c6c6c",
+          "meta": 13
+        },
+        {
+          "color": "#747474",
+          "meta": 14
+        },
+        {
+          "color": "#6f6f6f",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:cobblestonemossy2",
+      "name": "Mossy Cobblestone",
+      "color": "#757575",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:concrete",
+      "name": "Concrete",
+      "color": "#613d21",
+      "alpha": 1.0,
+      "meta": 12,
+      "variants": [
+        {
+          "color": "#cfd4d5",
+          "meta": 0
+        },
+        {
+          "color": "#df6202",
+          "meta": 1
+        },
+        {
+          "color": "#a9319f",
+          "meta": 2
+        },
+        {
+          "color": "#2589c7",
+          "meta": 3
+        },
+        {
+          "color": "#f0af16",
+          "meta": 4
+        },
+        {
+          "color": "#5fa91a",
+          "meta": 5
+        },
+        {
+          "color": "#d5668f",
+          "meta": 6
+        },
+        {
+          "color": "#383b3f",
+          "meta": 7
+        },
+        {
+          "color": "#7e7e74",
+          "meta": 8
+        },
+        {
+          "color": "#167888",
+          "meta": 9
+        },
+        {
+          "color": "#65219c",
+          "meta": 10
+        },
+        {
+          "color": "#2e308f",
+          "meta": 11
+        },
+        {
+          "color": "#4a5c25",
+          "meta": 13
+        },
+        {
+          "color": "#8e2222",
+          "meta": 14
+        },
+        {
+          "color": "#090b10",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:concrete_black",
+      "name": "Black Concrete",
+      "color": "#111217",
+      "alpha": 1.0,
+      "meta": 10,
+      "variants": [
+        {
+          "color": "#121418",
+          "meta": 6
+        },
+        {
+          "color": "#111318",
+          "meta": 8
+        },
+        {
+          "color": "#101217",
+          "meta": 9
+        },
+        {
+          "color": "#121318",
+          "meta": 14
+        },
+        {
+          "color": "#121419",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:concrete_black1",
+      "name": "Black Concrete",
+      "color": "#101217",
+      "alpha": 1.0,
+      "meta": 7,
+      "variants": [
+        {
+          "color": "#0c0e12",
+          "meta": 1
+        },
+        {
+          "color": "#0d0e13",
+          "meta": 5
+        },
+        {
+          "color": "#121418",
+          "meta": 9
+        },
+        {
+          "color": "#121419",
+          "meta": 10
+        },
+        {
+          "color": "#121318",
+          "meta": 12
+        },
+        {
+          "color": "#0e1014",
+          "meta": 13
+        },
+        {
+          "color": "#111318",
+          "meta": 14
+        },
+        {
+          "color": "#0f1116",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:concrete_black2",
+      "name": "Black Concrete",
+      "color": "#121318",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:concrete_blue",
+      "name": "Blue Concrete",
+      "color": "#2e308e",
+      "alpha": 1.0,
+      "meta": 7,
+      "variants": [
+        {
+          "color": "#2f308c",
+          "meta": 2
+        },
+        {
+          "color": "#30328c",
+          "meta": 6
+        },
+        {
+          "color": "#30318c",
+          "meta": 8
+        },
+        {
+          "color": "#2e308c",
+          "meta": 9
+        },
+        {
+          "color": "#30328b",
+          "meta": 10
+        },
+        {
+          "color": "#2f318c",
+          "meta": 13
+        },
+        {
+          "color": "#2f318d",
+          "meta": 14
+        },
+        {
+          "color": "#30328d",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:concrete_blue1",
+      "name": "Blue Concrete",
+      "color": "#2f318e",
+      "alpha": 1.0,
+      "meta": 8,
+      "variants": [
+        {
+          "color": "#2b2d89",
+          "meta": 1
+        },
+        {
+          "color": "#2e308d",
+          "meta": 2
+        },
+        {
+          "color": "#2d2f8e",
+          "meta": 5
+        },
+        {
+          "color": "#2e308c",
+          "meta": 7
+        },
+        {
+          "color": "#30328c",
+          "meta": 10
+        },
+        {
+          "color": "#30318c",
+          "meta": 12
+        },
+        {
+          "color": "#2d2f8a",
+          "meta": 13
+        },
+        {
+          "color": "#2f318d",
+          "meta": 14
+        },
+        {
+          "color": "#2c2e8b",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:concrete_blue2",
+      "name": "Blue Concrete",
+      "color": "#2f318d",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:concrete_brown",
+      "name": "Brown Concrete",
+      "color": "#603d22",
+      "alpha": 1.0,
+      "meta": 11,
+      "variants": [
+        {
+          "color": "#5f3d22",
+          "meta": 9
+        },
+        {
+          "color": "#5f3e23",
+          "meta": 10
+        },
+        {
+          "color": "#603d23",
+          "meta": 14
+        },
+        {
+          "color": "#603e23",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:concrete_brown1",
+      "name": "Brown Concrete",
+      "color": "#603d21",
+      "alpha": 1.0,
+      "meta": 2,
+      "variants": [
+        {
+          "color": "#5c3a1f",
+          "meta": 1
+        },
+        {
+          "color": "#603d23",
+          "meta": 3
+        },
+        {
+          "color": "#613d22",
+          "meta": 4
+        },
+        {
+          "color": "#5f3c20",
+          "meta": 5
+        },
+        {
+          "color": "#5f3c22",
+          "meta": 7
+        },
+        {
+          "color": "#603e24",
+          "meta": 10
+        },
+        {
+          "color": "#603e23",
+          "meta": 12
+        },
+        {
+          "color": "#5e3b21",
+          "meta": 13
+        },
+        {
+          "color": "#603d22",
+          "meta": 14
+        },
+        {
+          "color": "#5e3b20",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:concrete_brown2",
+      "name": "Brown Concrete",
+      "color": "#603d22",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:concrete_cyan",
+      "name": "Cyan Concrete",
+      "color": "#177787",
+      "alpha": 1.0,
+      "meta": 7,
+      "variants": [
+        {
+          "color": "#187585",
+          "meta": 9
+        },
+        {
+          "color": "#197585",
+          "meta": 10
+        },
+        {
+          "color": "#187686",
+          "meta": 14
+        },
+        {
+          "color": "#197686",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:concrete_cyan1",
+      "name": "Cyan Concrete",
+      "color": "#177787",
+      "alpha": 1.0,
+      "meta": 4,
+      "variants": [
+        {
+          "color": "#147282",
+          "meta": 1
+        },
+        {
+          "color": "#157686",
+          "meta": 5
+        },
+        {
+          "color": "#177585",
+          "meta": 7
+        },
+        {
+          "color": "#197686",
+          "meta": 10
+        },
+        {
+          "color": "#187686",
+          "meta": 11
+        },
+        {
+          "color": "#197685",
+          "meta": 12
+        },
+        {
+          "color": "#177484",
+          "meta": 13
+        },
+        {
+          "color": "#177686",
+          "meta": 14
+        },
+        {
+          "color": "#157585",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:concrete_cyan2",
+      "name": "Cyan Concrete",
+      "color": "#187686",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:concrete_gray",
+      "name": "Gray Concrete",
+      "color": "#393c3f",
+      "alpha": 1.0,
+      "meta": 14,
+      "variants": [
+        {
+          "color": "#383b3f",
+          "meta": 11
+        },
+        {
+          "color": "#393c40",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:concrete_gray1",
+      "name": "Gray Concrete",
+      "color": "#393c3f",
+      "alpha": 1.0,
+      "meta": 11,
+      "variants": [
+        {
+          "color": "#35383c",
+          "meta": 1
+        },
+        {
+          "color": "#393c40",
+          "meta": 12
+        },
+        {
+          "color": "#373a3e",
+          "meta": 13
+        },
+        {
+          "color": "#383b3f",
+          "meta": 14
+        },
+        {
+          "color": "#36393d",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:concrete_gray2",
+      "name": "Gray Concrete",
+      "color": "#383b3f",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:concrete_green",
+      "name": "Green Concrete",
+      "color": "#4a5b26",
+      "alpha": 1.0,
+      "meta": 14,
+      "variants": [
+        {
+          "color": "#495a26",
+          "meta": 9
+        },
+        {
+          "color": "#495a27",
+          "meta": 10
+        },
+        {
+          "color": "#495b26",
+          "meta": 11
+        },
+        {
+          "color": "#4a5b27",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:concrete_green1",
+      "name": "Green Concrete",
+      "color": "#465723",
+      "alpha": 1.0,
+      "meta": 1,
+      "variants": [
+        {
+          "color": "#495b25",
+          "meta": 2
+        },
+        {
+          "color": "#4a5c26",
+          "meta": 4
+        },
+        {
+          "color": "#495a24",
+          "meta": 5
+        },
+        {
+          "color": "#485a25",
+          "meta": 7
+        },
+        {
+          "color": "#4a5b27",
+          "meta": 12
+        },
+        {
+          "color": "#485925",
+          "meta": 13
+        },
+        {
+          "color": "#4a5b26",
+          "meta": 14
+        },
+        {
+          "color": "#485924",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:concrete_green2",
+      "name": "Green Concrete",
+      "color": "#4a5b26",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:concrete_lightblue",
+      "name": "Light Blue Concrete",
+      "color": "#2688c4",
+      "alpha": 1.0,
+      "meta": 7,
+      "variants": [
+        {
+          "color": "#2687c2",
+          "meta": 2
+        },
+        {
+          "color": "#2786c1",
+          "meta": 6
+        },
+        {
+          "color": "#2786c0",
+          "meta": 8
+        },
+        {
+          "color": "#2686c1",
+          "meta": 9
+        },
+        {
+          "color": "#2785c0",
+          "meta": 10
+        },
+        {
+          "color": "#2687c3",
+          "meta": 11
+        },
+        {
+          "color": "#2787c3",
+          "meta": 14
+        },
+        {
+          "color": "#2787c2",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:concrete_lightblue1",
+      "name": "Light Blue Concrete",
+      "color": "#2588c4",
+      "alpha": 1.0,
+      "meta": 2,
+      "variants": [
+        {
+          "color": "#2383bf",
+          "meta": 1
+        },
+        {
+          "color": "#2787c2",
+          "meta": 3
+        },
+        {
+          "color": "#2688c5",
+          "meta": 4
+        },
+        {
+          "color": "#2488c5",
+          "meta": 5
+        },
+        {
+          "color": "#2686c1",
+          "meta": 7
+        },
+        {
+          "color": "#2688c3",
+          "meta": 8
+        },
+        {
+          "color": "#2787c1",
+          "meta": 10
+        },
+        {
+          "color": "#2786c1",
+          "meta": 12
+        },
+        {
+          "color": "#2585c0",
+          "meta": 13
+        },
+        {
+          "color": "#2687c3",
+          "meta": 14
+        },
+        {
+          "color": "#2486c2",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:concrete_lightblue2",
+      "name": "Light Blue Concrete",
+      "color": "#2688c4",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:concrete_lightgray",
+      "name": "Light Gray Concrete",
+      "color": "#7b7b72",
+      "alpha": 1.0,
+      "meta": 15,
+      "variants": [
+        {
+          "color": "#7c7c73",
+          "meta": 1
+        },
+        {
+          "color": "#7d7d73",
+          "meta": 7
+        },
+        {
+          "color": "#7a7a71",
+          "meta": 9
+        },
+        {
+          "color": "#7b7b71",
+          "meta": 10
+        },
+        {
+          "color": "#7c7c72",
+          "meta": 14
+        }
+      ]
+    },
+    {
+      "uid": "chisel:concrete_lightgray1",
+      "name": "Light Gray Concrete",
+      "color": "#7b7b72",
+      "alpha": 1.0,
+      "meta": 12,
+      "variants": [
+        {
+          "color": "#78786f",
+          "meta": 1
+        },
+        {
+          "color": "#7d7d73",
+          "meta": 4
+        },
+        {
+          "color": "#7c7c73",
+          "meta": 8
+        },
+        {
+          "color": "#797970",
+          "meta": 13
+        },
+        {
+          "color": "#7c7c72",
+          "meta": 14
+        },
+        {
+          "color": "#7a7a71",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:concrete_lightgray2",
+      "name": "Light Gray Concrete",
+      "color": "#7c7c73",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:concrete_lime",
+      "name": "Lime Concrete",
+      "color": "#5ea61c",
+      "alpha": 1.0,
+      "meta": 14,
+      "variants": [
+        {
+          "color": "#5ea71b",
+          "meta": 7
+        },
+        {
+          "color": "#5da41b",
+          "meta": 9
+        },
+        {
+          "color": "#5ea41d",
+          "meta": 10
+        },
+        {
+          "color": "#5ea61b",
+          "meta": 11
+        },
+        {
+          "color": "#5ea51c",
+          "meta": 13
+        },
+        {
+          "color": "#5ea51d",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:concrete_lime1",
+      "name": "Lime Concrete",
+      "color": "#5ea51c",
+      "alpha": 1.0,
+      "meta": 12,
+      "variants": [
+        {
+          "color": "#5aa218",
+          "meta": 1
+        },
+        {
+          "color": "#5ea61b",
+          "meta": 2
+        },
+        {
+          "color": "#5fa71b",
+          "meta": 4
+        },
+        {
+          "color": "#5ea719",
+          "meta": 5
+        },
+        {
+          "color": "#5da51b",
+          "meta": 7
+        },
+        {
+          "color": "#5ea51d",
+          "meta": 10
+        },
+        {
+          "color": "#5ca31a",
+          "meta": 13
+        },
+        {
+          "color": "#5ea61c",
+          "meta": 14
+        },
+        {
+          "color": "#5ca519",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:concrete_lime2",
+      "name": "Lime Concrete",
+      "color": "#5ea61b",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:concrete_magenta",
+      "name": "Magenta Concrete",
+      "color": "#a5329c",
+      "alpha": 1.0,
+      "meta": 13,
+      "variants": [
+        {
+          "color": "#a7329d",
+          "meta": 1
+        },
+        {
+          "color": "#a5329b",
+          "meta": 5
+        },
+        {
+          "color": "#a5339b",
+          "meta": 6
+        },
+        {
+          "color": "#a7319d",
+          "meta": 7
+        },
+        {
+          "color": "#a4329b",
+          "meta": 8
+        },
+        {
+          "color": "#a4319b",
+          "meta": 9
+        },
+        {
+          "color": "#a4329a",
+          "meta": 10
+        },
+        {
+          "color": "#a6329c",
+          "meta": 14
+        },
+        {
+          "color": "#a5339c",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:concrete_magenta1",
+      "name": "Magenta Concrete",
+      "color": "#a5329c",
+      "alpha": 1.0,
+      "meta": 12,
+      "variants": [
+        {
+          "color": "#a22e98",
+          "meta": 1
+        },
+        {
+          "color": "#a7319d",
+          "meta": 2
+        },
+        {
+          "color": "#a7329e",
+          "meta": 4
+        },
+        {
+          "color": "#a7309d",
+          "meta": 5
+        },
+        {
+          "color": "#a5319b",
+          "meta": 7
+        },
+        {
+          "color": "#a7329d",
+          "meta": 8
+        },
+        {
+          "color": "#a5339b",
+          "meta": 9
+        },
+        {
+          "color": "#a5339c",
+          "meta": 10
+        },
+        {
+          "color": "#a6329c",
+          "meta": 11
+        },
+        {
+          "color": "#a3309a",
+          "meta": 13
+        },
+        {
+          "color": "#a6329d",
+          "meta": 14
+        },
+        {
+          "color": "#a5309c",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:concrete_magenta2",
+      "name": "Magenta Concrete",
+      "color": "#a6329d",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:concrete_orange",
+      "name": "Orange Concrete",
+      "color": "#d76006",
+      "alpha": 1.0,
+      "meta": 10,
+      "variants": [
+        {
+          "color": "#dc6105",
+          "meta": 1
+        },
+        {
+          "color": "#da6005",
+          "meta": 2
+        },
+        {
+          "color": "#da6106",
+          "meta": 4
+        },
+        {
+          "color": "#d86106",
+          "meta": 6
+        },
+        {
+          "color": "#dd6104",
+          "meta": 7
+        },
+        {
+          "color": "#d86006",
+          "meta": 8
+        },
+        {
+          "color": "#d96005",
+          "meta": 9
+        },
+        {
+          "color": "#db6104",
+          "meta": 11
+        },
+        {
+          "color": "#da6105",
+          "meta": 13
+        },
+        {
+          "color": "#db6105",
+          "meta": 14
+        },
+        {
+          "color": "#d96106",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:concrete_orange1",
+      "name": "Orange Concrete",
+      "color": "#d75f04",
+      "alpha": 1.0,
+      "meta": 13,
+      "variants": [
+        {
+          "color": "#d75d01",
+          "meta": 1
+        },
+        {
+          "color": "#dc6103",
+          "meta": 2
+        },
+        {
+          "color": "#da6105",
+          "meta": 3
+        },
+        {
+          "color": "#dd6104",
+          "meta": 4
+        },
+        {
+          "color": "#dd6002",
+          "meta": 5
+        },
+        {
+          "color": "#d96004",
+          "meta": 7
+        },
+        {
+          "color": "#dc6104",
+          "meta": 8
+        },
+        {
+          "color": "#db6105",
+          "meta": 11
+        },
+        {
+          "color": "#d96106",
+          "meta": 12
+        },
+        {
+          "color": "#db6104",
+          "meta": 14
+        },
+        {
+          "color": "#db5f02",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:concrete_orange2",
+      "name": "Orange Concrete",
+      "color": "#dc6104",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:concrete_pink",
+      "name": "Pink Concrete",
+      "color": "#cf648c",
+      "alpha": 1.0,
+      "meta": 6,
+      "variants": [
+        {
+          "color": "#d2658d",
+          "meta": 1
+        },
+        {
+          "color": "#d0648c",
+          "meta": 2
+        },
+        {
+          "color": "#d3658e",
+          "meta": 7
+        },
+        {
+          "color": "#cf648b",
+          "meta": 9
+        },
+        {
+          "color": "#ce648b",
+          "meta": 10
+        },
+        {
+          "color": "#d0658c",
+          "meta": 13
+        },
+        {
+          "color": "#d1658d",
+          "meta": 14
+        },
+        {
+          "color": "#d0658d",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:concrete_pink1",
+      "name": "Pink Concrete",
+      "color": "#cf658c",
+      "alpha": 1.0,
+      "meta": 10,
+      "variants": [
+        {
+          "color": "#d0658c",
+          "meta": 0
+        },
+        {
+          "color": "#cd6189",
+          "meta": 1
+        },
+        {
+          "color": "#d0658d",
+          "meta": 3
+        },
+        {
+          "color": "#d3658e",
+          "meta": 4
+        },
+        {
+          "color": "#d3648d",
+          "meta": 5
+        },
+        {
+          "color": "#d2658d",
+          "meta": 8
+        },
+        {
+          "color": "#cf648c",
+          "meta": 12
+        },
+        {
+          "color": "#ce628a",
+          "meta": 13
+        },
+        {
+          "color": "#d1658d",
+          "meta": 14
+        },
+        {
+          "color": "#d1638b",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:concrete_pink2",
+      "name": "Pink Concrete",
+      "color": "#d2658d",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:concrete_powder",
+      "name": "Concrete Powder",
+      "color": "#e2e2e2",
+      "alpha": 1.0,
+      "meta": 0,
+      "variants": [
+        {
+          "color": "#d38038",
+          "meta": 1
+        },
+        {
+          "color": "#b252d6",
+          "meta": 2
+        },
+        {
+          "color": "#6898d3",
+          "meta": 3
+        },
+        {
+          "color": "#d9d934",
+          "meta": 4
+        },
+        {
+          "color": "#7ec61f",
+          "meta": 5
+        },
+        {
+          "color": "#ea7ea1",
+          "meta": 6
+        },
+        {
+          "color": "#565656",
+          "meta": 7
+        },
+        {
+          "color": "#979797",
+          "meta": 8
+        },
+        {
+          "color": "#52829a",
+          "meta": 9
+        },
+        {
+          "color": "#8548b4",
+          "meta": 10
+        },
+        {
+          "color": "#3e56b6",
+          "meta": 11
+        },
+        {
+          "color": "#6e563e",
+          "meta": 12
+        },
+        {
+          "color": "#6c833b",
+          "meta": 13
+        },
+        {
+          "color": "#9e3e3e",
+          "meta": 14
+        },
+        {
+          "color": "#2b2b2b",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:concrete_purple",
+      "name": "Purple Concrete",
+      "color": "#632397",
+      "alpha": 1.0,
+      "meta": 10,
+      "variants": [
+        {
+          "color": "#642299",
+          "meta": 0
+        },
+        {
+          "color": "#64239a",
+          "meta": 1
+        },
+        {
+          "color": "#632398",
+          "meta": 6
+        },
+        {
+          "color": "#64229a",
+          "meta": 7
+        },
+        {
+          "color": "#632298",
+          "meta": 9
+        },
+        {
+          "color": "#632299",
+          "meta": 11
+        },
+        {
+          "color": "#632399",
+          "meta": 13
+        },
+        {
+          "color": "#642399",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:concrete_purple1",
+      "name": "Purple Concrete",
+      "color": "#601f95",
+      "alpha": 1.0,
+      "meta": 1,
+      "variants": [
+        {
+          "color": "#64219a",
+          "meta": 2
+        },
+        {
+          "color": "#63209a",
+          "meta": 5
+        },
+        {
+          "color": "#632298",
+          "meta": 7
+        },
+        {
+          "color": "#642399",
+          "meta": 10
+        },
+        {
+          "color": "#642299",
+          "meta": 11
+        },
+        {
+          "color": "#632398",
+          "meta": 12
+        },
+        {
+          "color": "#612197",
+          "meta": 13
+        },
+        {
+          "color": "#64229a",
+          "meta": 14
+        },
+        {
+          "color": "#622098",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:concrete_purple2",
+      "name": "Purple Concrete",
+      "color": "#64229a",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:concrete_red",
+      "name": "Red Concrete",
+      "color": "#8c2424",
+      "alpha": 1.0,
+      "meta": 14,
+      "variants": [
+        {
+          "color": "#8b2323",
+          "meta": 2
+        },
+        {
+          "color": "#8d2323",
+          "meta": 7
+        },
+        {
+          "color": "#8a2323",
+          "meta": 9
+        },
+        {
+          "color": "#8a2424",
+          "meta": 10
+        },
+        {
+          "color": "#8c2323",
+          "meta": 11
+        },
+        {
+          "color": "#8b2424",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:concrete_red1",
+      "name": "Red Concrete",
+      "color": "#882020",
+      "alpha": 1.0,
+      "meta": 1,
+      "variants": [
+        {
+          "color": "#8c2222",
+          "meta": 2
+        },
+        {
+          "color": "#8c2424",
+          "meta": 3
+        },
+        {
+          "color": "#8d2323",
+          "meta": 4
+        },
+        {
+          "color": "#8c2121",
+          "meta": 5
+        },
+        {
+          "color": "#8b2323",
+          "meta": 7
+        },
+        {
+          "color": "#8b2424",
+          "meta": 12
+        },
+        {
+          "color": "#892222",
+          "meta": 13
+        },
+        {
+          "color": "#8c2323",
+          "meta": 14
+        },
+        {
+          "color": "#8a2121",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:concrete_red2",
+      "name": "Red Concrete",
+      "color": "#8c2323",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:concrete_white",
+      "name": "White Concrete",
+      "color": "#c9cecf",
+      "alpha": 1.0,
+      "meta": 5,
+      "variants": [
+        {
+          "color": "#cbd1d2",
+          "meta": 1
+        },
+        {
+          "color": "#cacfd0",
+          "meta": 4
+        },
+        {
+          "color": "#ccd2d3",
+          "meta": 7
+        },
+        {
+          "color": "#c8cdce",
+          "meta": 8
+        },
+        {
+          "color": "#c8cecf",
+          "meta": 9
+        },
+        {
+          "color": "#c7cdce",
+          "meta": 10
+        },
+        {
+          "color": "#cbd0d1",
+          "meta": 11
+        },
+        {
+          "color": "#cad0d1",
+          "meta": 14
+        },
+        {
+          "color": "#c9cfd0",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:concrete_white1",
+      "name": "White Concrete",
+      "color": "#c9cecf",
+      "alpha": 1.0,
+      "meta": 12,
+      "variants": [
+        {
+          "color": "#c6cccd",
+          "meta": 1
+        },
+        {
+          "color": "#ccd1d2",
+          "meta": 2
+        },
+        {
+          "color": "#cacfd0",
+          "meta": 3
+        },
+        {
+          "color": "#ccd2d3",
+          "meta": 4
+        },
+        {
+          "color": "#cdd2d3",
+          "meta": 5
+        },
+        {
+          "color": "#c9cfd0",
+          "meta": 7
+        },
+        {
+          "color": "#cad0d1",
+          "meta": 11
+        },
+        {
+          "color": "#c7cdcd",
+          "meta": 13
+        },
+        {
+          "color": "#cbd1d2",
+          "meta": 14
+        },
+        {
+          "color": "#cad0d0",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:concrete_white2",
+      "name": "White Concrete",
+      "color": "#cbd1d2",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:concrete_yellow",
+      "name": "Yellow Concrete",
+      "color": "#e9aa19",
+      "alpha": 1.0,
+      "meta": 5,
+      "variants": [
+        {
+          "color": "#ecac18",
+          "meta": 1
+        },
+        {
+          "color": "#eaab19",
+          "meta": 4
+        },
+        {
+          "color": "#e8aa19",
+          "meta": 6
+        },
+        {
+          "color": "#edad17",
+          "meta": 7
+        },
+        {
+          "color": "#e9aa18",
+          "meta": 9
+        },
+        {
+          "color": "#e7a919",
+          "meta": 10
+        },
+        {
+          "color": "#ebac18",
+          "meta": 11
+        },
+        {
+          "color": "#eaab18",
+          "meta": 13
+        },
+        {
+          "color": "#ebab18",
+          "meta": 14
+        },
+        {
+          "color": "#e9ab19",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:concrete_yellow1",
+      "name": "Yellow Concrete",
+      "color": "#e9ab19",
+      "alpha": 1.0,
+      "meta": 12,
+      "variants": [
+        {
+          "color": "#eaab19",
+          "meta": 0
+        },
+        {
+          "color": "#e7a814",
+          "meta": 1
+        },
+        {
+          "color": "#edac17",
+          "meta": 2
+        },
+        {
+          "color": "#eaab18",
+          "meta": 3
+        },
+        {
+          "color": "#edad18",
+          "meta": 4
+        },
+        {
+          "color": "#eead15",
+          "meta": 5
+        },
+        {
+          "color": "#eaaa17",
+          "meta": 7
+        },
+        {
+          "color": "#e9aa19",
+          "meta": 9
+        },
+        {
+          "color": "#ebac18",
+          "meta": 11
+        },
+        {
+          "color": "#e7a916",
+          "meta": 13
+        },
+        {
+          "color": "#ecac18",
+          "meta": 14
+        },
+        {
+          "color": "#ebab15",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:concrete_yellow2",
+      "name": "Yellow Concrete",
+      "color": "#ecac18",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:diamond",
+      "name": "Block of Diamond",
+      "color": "#8092a0",
+      "alpha": 1.0,
+      "meta": 10,
+      "variants": [
+        {
+          "color": "#748790",
+          "meta": 0
+        },
+        {
+          "color": "#71848d",
+          "meta": 1
+        },
+        {
+          "color": "#7d8b90",
+          "meta": 2
+        },
+        {
+          "color": "#19102a",
+          "meta": 3
+        },
+        {
+          "color": "#191b1c",
+          "meta": 4
+        },
+        {
+          "color": "#697b82",
+          "meta": 5
+        },
+        {
+          "color": "#776e7a",
+          "meta": 6
+        },
+        {
+          "color": "#8097a3",
+          "meta": 7
+        },
+        {
+          "color": "#91aab7",
+          "meta": 8
+        },
+        {
+          "color": "#7f97a4",
+          "meta": 9
+        },
+        {
+          "color": "#9a9a83",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:diorite",
+      "name": "Diorite",
+      "color": "#acacad",
+      "alpha": 1.0,
+      "meta": 3,
+      "variants": [
+        {
+          "color": "#ababac",
+          "meta": 0
+        },
+        {
+          "color": "#aeaeb0",
+          "meta": 1
+        },
+        {
+          "color": "#a5a5a6",
+          "meta": 2
+        },
+        {
+          "color": "#a8a8a9",
+          "meta": 4
+        },
+        {
+          "color": "#a5a5a7",
+          "meta": 5
+        },
+        {
+          "color": "#a3a3a4",
+          "meta": 6
+        },
+        {
+          "color": "#b4b4b6",
+          "meta": 7
+        },
+        {
+          "color": "#a0a0a1",
+          "meta": 8
+        },
+        {
+          "color": "#a2a2a3",
+          "meta": 9
+        },
+        {
+          "color": "#9e9e9f",
+          "meta": 10
+        },
+        {
+          "color": "#a9a9ab",
+          "meta": 11
+        },
+        {
+          "color": "#a9a9aa",
+          "meta": 12
+        },
+        {
+          "color": "#a8a8aa",
+          "meta": 13
+        },
+        {
+          "color": "#ababad",
+          "meta": 14
+        },
+        {
+          "color": "#a7a7a8",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:diorite1",
+      "name": "Diorite",
+      "color": "#a4a4a5",
+      "alpha": 1.0,
+      "meta": 7,
+      "variants": [
+        {
+          "color": "#a9a9aa",
+          "meta": 0
+        },
+        {
+          "color": "#99999b",
+          "meta": 1
+        },
+        {
+          "color": "#adadae",
+          "meta": 2
+        },
+        {
+          "color": "#a9a9ab",
+          "meta": 3
+        },
+        {
+          "color": "#b2b2b4",
+          "meta": 4
+        },
+        {
+          "color": "#b1b1b3",
+          "meta": 5
+        },
+        {
+          "color": "#afafb1",
+          "meta": 8
+        },
+        {
+          "color": "#a5a5a6",
+          "meta": 9
+        },
+        {
+          "color": "#a7a7a8",
+          "meta": 10
+        },
+        {
+          "color": "#acacad",
+          "meta": 11
+        },
+        {
+          "color": "#99999a",
+          "meta": 13
+        },
+        {
+          "color": "#b0b0b1",
+          "meta": 14
+        },
+        {
+          "color": "#a5a5a7",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:diorite2",
+      "name": "Diorite",
+      "color": "#b0b0b1",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:dirt",
+      "name": "Dirt",
+      "color": "#835d40",
+      "alpha": 1.0,
+      "meta": 12,
+      "variants": [
+        {
+          "color": "#6b4c34",
+          "meta": 1
+        },
+        {
+          "color": "#6e4e36",
+          "meta": 2
+        },
+        {
+          "color": "#664932",
+          "meta": 3
+        },
+        {
+          "color": "#453021",
+          "meta": 4
+        },
+        {
+          "color": "#543b29",
+          "meta": 5
+        },
+        {
+          "color": "#7a573c",
+          "meta": 6
+        },
+        {
+          "color": "#694b33",
+          "meta": 7
+        },
+        {
+          "color": "#735238",
+          "meta": 8
+        },
+        {
+          "color": "#77553b",
+          "meta": 11
+        },
+        {
+          "color": "#644731",
+          "meta": 13
+        },
+        {
+          "color": "#6e4f36",
+          "meta": 14
+        },
+        {
+          "color": "#745339",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:emerald",
+      "name": "Block of Emerald",
+      "color": "#417d01",
+      "alpha": 1.0,
+      "meta": 2,
+      "variants": [
+        {
+          "color": "#447a09",
+          "meta": 0
+        },
+        {
+          "color": "#396b05",
+          "meta": 1
+        },
+        {
+          "color": "#295301",
+          "meta": 3
+        },
+        {
+          "color": "#5e6b1e",
+          "meta": 4
+        },
+        {
+          "color": "#436c19",
+          "meta": 5
+        },
+        {
+          "color": "#6a9f31",
+          "meta": 6
+        },
+        {
+          "color": "#639929",
+          "meta": 7
+        },
+        {
+          "color": "#69a12d",
+          "meta": 8
+        },
+        {
+          "color": "#6da233",
+          "meta": 9
+        },
+        {
+          "color": "#5b8a28",
+          "meta": 10
+        },
+        {
+          "color": "#36b359",
+          "meta": 11
+        },
+        {
+          "color": "#4cd972",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:endstone",
+      "name": "Endstone",
+      "color": "#e1e6ad",
+      "alpha": 1.0,
+      "meta": 3,
+      "variants": [
+        {
+          "color": "#dfe4aa",
+          "meta": 0
+        },
+        {
+          "color": "#e3e8b0",
+          "meta": 1
+        },
+        {
+          "color": "#dee2aa",
+          "meta": 2
+        },
+        {
+          "color": "#dde1a9",
+          "meta": 5
+        },
+        {
+          "color": "#e6edb3",
+          "meta": 7
+        },
+        {
+          "color": "#dbdea7",
+          "meta": 8
+        },
+        {
+          "color": "#dce0a8",
+          "meta": 9
+        },
+        {
+          "color": "#dbdda6",
+          "meta": 10
+        },
+        {
+          "color": "#dfe5ab",
+          "meta": 11
+        },
+        {
+          "color": "#dfe4ab",
+          "meta": 12
+        },
+        {
+          "color": "#e0e4ac",
+          "meta": 13
+        },
+        {
+          "color": "#e0e6ad",
+          "meta": 14
+        },
+        {
+          "color": "#dee3aa",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:endstone1",
+      "name": "Endstone",
+      "color": "#ffffff",
+      "alpha": 1.0,
+      "meta": 15,
+      "variants": [
+        {
+          "color": "#dfe3ab",
+          "meta": 0
+        },
+        {
+          "color": "#dbdea6",
+          "meta": 1
+        },
+        {
+          "color": "#e2e8af",
+          "meta": 2
+        },
+        {
+          "color": "#e0e5ac",
+          "meta": 3
+        },
+        {
+          "color": "#e4ebb1",
+          "meta": 4
+        },
+        {
+          "color": "#e3eaaf",
+          "meta": 5
+        },
+        {
+          "color": "#dee2aa",
+          "meta": 7
+        },
+        {
+          "color": "#dde3aa",
+          "meta": 8
+        },
+        {
+          "color": "#e3e9b0",
+          "meta": 9
+        }
+      ]
+    },
+    {
+      "uid": "chisel:endstone2",
+      "name": "Endstone",
+      "color": "#e2e7ae",
+      "alpha": 1.0,
+      "meta": 3,
+      "variants": [
+        {
+          "color": "#e4e9b0",
+          "meta": 0
+        },
+        {
+          "color": "#dde1a9",
+          "meta": 1
+        },
+        {
+          "color": "#dee2aa",
+          "meta": 4
+        },
+        {
+          "color": "#dadca5",
+          "meta": 5
+        },
+        {
+          "color": "#e3e8af",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:energizedvoidstone",
+      "name": "Primal Voidstone",
+      "color": "#791589",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:factory",
+      "name": "Factory Block",
+      "color": "#4b444b",
+      "alpha": 1.0,
+      "meta": 2,
+      "variants": [
+        {
+          "color": "#4f3f37",
+          "meta": 0
+        },
+        {
+          "color": "#4b3d33",
+          "meta": 1
+        },
+        {
+          "color": "#545b69",
+          "meta": 3
+        },
+        {
+          "color": "#303030",
+          "meta": 4
+        },
+        {
+          "color": "#2d2523",
+          "meta": 5
+        },
+        {
+          "color": "#878337",
+          "meta": 6
+        },
+        {
+          "color": "#d69369",
+          "meta": 7
+        },
+        {
+          "color": "#323631",
+          "meta": 8
+        },
+        {
+          "color": "#594b43",
+          "meta": 9
+        },
+        {
+          "color": "#422717",
+          "meta": 10
+        },
+        {
+          "color": "#2a2226",
+          "meta": 11
+        },
+        {
+          "color": "#96a6a4",
+          "meta": 12
+        },
+        {
+          "color": "#545454",
+          "meta": 13
+        },
+        {
+          "color": "#251a11",
+          "meta": 14
+        },
+        {
+          "color": "#808687",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:factory1",
+      "name": "Factory Block",
+      "color": "#1c1a1c",
+      "alpha": 1.0,
+      "meta": 0,
+      "variants": [
+        {
+          "color": "#2d457e",
+          "meta": 1
+        },
+        {
+          "color": "#3c3e57",
+          "meta": 2
+        },
+        {
+          "color": "#7b6c63",
+          "meta": 3
+        },
+        {
+          "color": "#2b456b",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:glass",
+      "name": "Glass",
+      "color": "#272727",
+      "alpha": 0.4,
+      "meta": 7,
+      "variants": [
+        {
+          "color": "#839093",
+          "meta": 0
+        },
+        {
+          "color": "#740d0a",
+          "meta": 1
+        },
+        {
+          "color": "#684c31",
+          "meta": 2
+        },
+        {
+          "color": "#464749",
+          "meta": 3
+        },
+        {
+          "color": "#827c67",
+          "meta": 4
+        },
+        {
+          "color": "#818e92",
+          "meta": 5
+        },
+        {
+          "color": "#5b5d5f",
+          "meta": 6
+        },
+        {
+          "color": "#75766d",
+          "meta": 8
+        },
+        {
+          "color": "#525456",
+          "meta": 9
+        },
+        {
+          "color": "#616565",
+          "meta": 10
+        },
+        {
+          "color": "#8a979c",
+          "meta": 11
+        },
+        {
+          "color": "#5a5c5f",
+          "meta": 12
+        },
+        {
+          "color": "#6e6d6f",
+          "meta": 13
+        },
+        {
+          "color": "#505154",
+          "meta": 14
+        },
+        {
+          "color": "#575462",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:glassdyedblack",
+      "name": "Black Stained Glass",
+      "color": "#000000",
+      "alpha": 0.4,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:glassdyedblue",
+      "name": "Blue Stained Glass",
+      "color": "#334cb2",
+      "alpha": 0.4,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:glassdyedbrown",
+      "name": "Brown Stained Glass",
+      "color": "#664c33",
+      "alpha": 0.4,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:glassdyedcyan",
+      "name": "Cyan Stained Glass",
+      "color": "#4c7f99",
+      "alpha": 0.4,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:glassdyedgray",
+      "name": "Gray Stained Glass",
+      "color": "#4c4c4c",
+      "alpha": 0.4,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:glassdyedgreen",
+      "name": "Green Stained Glass",
+      "color": "#667f33",
+      "alpha": 0.4,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:glassdyedlightblue",
+      "name": "Light Blue Stained Glass",
+      "color": "#6699d8",
+      "alpha": 0.4,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:glassdyedlightgray",
+      "name": "Light Gray Stained Glass",
+      "color": "#999999",
+      "alpha": 0.4,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:glassdyedlime",
+      "name": "Lime Stained Glass",
+      "color": "#7fcc19",
+      "alpha": 0.4,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:glassdyedmagenta",
+      "name": "Magenta Stained Glass",
+      "color": "#b24cd8",
+      "alpha": 0.4,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:glassdyedorange",
+      "name": "Orange Stained Glass",
+      "color": "#d87f33",
+      "alpha": 0.4,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:glassdyedpink",
+      "name": "Pink Stained Glass",
+      "color": "#f27fa5",
+      "alpha": 0.4,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:glassdyedpurple",
+      "name": "Purple Stained Glass",
+      "color": "#7f3fb2",
+      "alpha": 0.4,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:glassdyedred",
+      "name": "Red Stained Glass",
+      "color": "#993333",
+      "alpha": 0.4,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:glassdyedwhite",
+      "name": "White Stained Glass",
+      "color": "#ffffff",
+      "alpha": 0.4,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:glassdyedyellow",
+      "name": "Yellow Stained Glass",
+      "color": "#e5e533",
+      "alpha": 0.4,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:glowstone",
+      "name": "Glowstone",
+      "color": "#94753d",
+      "alpha": 0.4,
+      "meta": 4,
+      "variants": [
+        {
+          "color": "#997237",
+          "meta": 0
+        },
+        {
+          "color": "#ab8c56",
+          "meta": 1
+        },
+        {
+          "color": "#876f3d",
+          "meta": 2
+        },
+        {
+          "color": "#9b7d48",
+          "meta": 3
+        },
+        {
+          "color": "#8e713b",
+          "meta": 5
+        },
+        {
+          "color": "#8e723c",
+          "meta": 6
+        },
+        {
+          "color": "#c4a778",
+          "meta": 7
+        },
+        {
+          "color": "#8f7643",
+          "meta": 8
+        },
+        {
+          "color": "#8c723f",
+          "meta": 9
+        },
+        {
+          "color": "#836e3e",
+          "meta": 10
+        },
+        {
+          "color": "#8d743f",
+          "meta": 11
+        },
+        {
+          "color": "#967842",
+          "meta": 12
+        },
+        {
+          "color": "#977943",
+          "meta": 13
+        },
+        {
+          "color": "#9d7f49",
+          "meta": 14
+        },
+        {
+          "color": "#93743c",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:glowstone1",
+      "name": "Glowstone",
+      "color": "#9f7639",
+      "alpha": 0.4,
+      "meta": 1,
+      "variants": [
+        {
+          "color": "#947741",
+          "meta": 0
+        },
+        {
+          "color": "#b89d6e",
+          "meta": 2
+        },
+        {
+          "color": "#8e7039",
+          "meta": 3
+        },
+        {
+          "color": "#b79967",
+          "meta": 4
+        },
+        {
+          "color": "#ad8d57",
+          "meta": 5
+        },
+        {
+          "color": "#8e713b",
+          "meta": 6
+        },
+        {
+          "color": "#8c6f39",
+          "meta": 7
+        },
+        {
+          "color": "#9d7e48",
+          "meta": 8
+        },
+        {
+          "color": "#977941",
+          "meta": 9
+        },
+        {
+          "color": "#8b7543",
+          "meta": 10
+        },
+        {
+          "color": "#a3834d",
+          "meta": 11
+        },
+        {
+          "color": "#a87d3d",
+          "meta": 12
+        },
+        {
+          "color": "#a47a3a",
+          "meta": 13
+        },
+        {
+          "color": "#a17839",
+          "meta": 14
+        },
+        {
+          "color": "#d19c4f",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:glowstone2",
+      "name": "Glowstone",
+      "color": "#d7a051",
+      "alpha": 0.4,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:gold",
+      "name": "Block of Gold",
+      "color": "#6e522c",
+      "alpha": 1.0,
+      "meta": 6,
+      "variants": [
+        {
+          "color": "#b4a26c",
+          "meta": 0
+        },
+        {
+          "color": "#a48d4d",
+          "meta": 1
+        },
+        {
+          "color": "#a38d4b",
+          "meta": 2
+        },
+        {
+          "color": "#7d7049",
+          "meta": 3
+        },
+        {
+          "color": "#8a733b",
+          "meta": 5
+        },
+        {
+          "color": "#9e834d",
+          "meta": 7
+        },
+        {
+          "color": "#b49757",
+          "meta": 8
+        },
+        {
+          "color": "#b09457",
+          "meta": 9
+        },
+        {
+          "color": "#937d3e",
+          "meta": 10
+        },
+        {
+          "color": "#37272b",
+          "meta": 11
+        },
+        {
+          "color": "#322c1b",
+          "meta": 12
+        },
+        {
+          "color": "#978553",
+          "meta": 13
+        },
+        {
+          "color": "#d9b112",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:granite",
+      "name": "Granite",
+      "color": "#976e5f",
+      "alpha": 1.0,
+      "meta": 14,
+      "variants": [
+        {
+          "color": "#996f60",
+          "meta": 1
+        },
+        {
+          "color": "#956c5e",
+          "meta": 2
+        },
+        {
+          "color": "#966e5f",
+          "meta": 4
+        },
+        {
+          "color": "#936c5e",
+          "meta": 6
+        },
+        {
+          "color": "#9b7060",
+          "meta": 7
+        },
+        {
+          "color": "#926a5c",
+          "meta": 9
+        },
+        {
+          "color": "#916b5d",
+          "meta": 10
+        },
+        {
+          "color": "#956d5e",
+          "meta": 13
+        },
+        {
+          "color": "#956d5f",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:granite1",
+      "name": "Granite",
+      "color": "#986e5e",
+      "alpha": 1.0,
+      "meta": 2,
+      "variants": [
+        {
+          "color": "#896153",
+          "meta": 1
+        },
+        {
+          "color": "#966d5e",
+          "meta": 3
+        },
+        {
+          "color": "#9b7061",
+          "meta": 4
+        },
+        {
+          "color": "#996e5e",
+          "meta": 5
+        },
+        {
+          "color": "#936a5c",
+          "meta": 7
+        },
+        {
+          "color": "#946c5e",
+          "meta": 9
+        },
+        {
+          "color": "#956d5f",
+          "meta": 10
+        },
+        {
+          "color": "#976e5f",
+          "meta": 11
+        },
+        {
+          "color": "#946d5e",
+          "meta": 12
+        },
+        {
+          "color": "#8e6759",
+          "meta": 13
+        },
+        {
+          "color": "#996f5f",
+          "meta": 14
+        },
+        {
+          "color": "#93695a",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:granite2",
+      "name": "Granite",
+      "color": "#996f60",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:hardenedclay",
+      "name": "Hardened Clay",
+      "color": "#8f5840",
+      "alpha": 1.0,
+      "meta": 9,
+      "variants": [
+        {
+          "color": "#925b42",
+          "meta": 0
+        },
+        {
+          "color": "#935b42",
+          "meta": 1
+        },
+        {
+          "color": "#935b43",
+          "meta": 3
+        },
+        {
+          "color": "#915a42",
+          "meta": 6
+        },
+        {
+          "color": "#935c43",
+          "meta": 7
+        },
+        {
+          "color": "#905941",
+          "meta": 10
+        },
+        {
+          "color": "#925a42",
+          "meta": 11
+        },
+        {
+          "color": "#925a43",
+          "meta": 12
+        },
+        {
+          "color": "#925b43",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:hardenedclay1",
+      "name": "Hardened Clay",
+      "color": "#ffffff",
+      "alpha": 1.0,
+      "meta": 15,
+      "variants": [
+        {
+          "color": "#89523a",
+          "meta": 1
+        },
+        {
+          "color": "#915a41",
+          "meta": 2
+        },
+        {
+          "color": "#925b42",
+          "meta": 3
+        },
+        {
+          "color": "#935c43",
+          "meta": 4
+        },
+        {
+          "color": "#915941",
+          "meta": 5
+        },
+        {
+          "color": "#925b43",
+          "meta": 6
+        },
+        {
+          "color": "#905940",
+          "meta": 7
+        },
+        {
+          "color": "#8e563e",
+          "meta": 8
+        },
+        {
+          "color": "#935b43",
+          "meta": 9
+        }
+      ]
+    },
+    {
+      "uid": "chisel:hardenedclay2",
+      "name": "Hardened Clay",
+      "color": "#935b43",
+      "alpha": 1.0,
+      "meta": 15,
+      "variants": [
+        {
+          "color": "#925a43",
+          "meta": 1
+        },
+        {
+          "color": "#925b43",
+          "meta": 3
+        },
+        {
+          "color": "#925a42",
+          "meta": 4
+        },
+        {
+          "color": "#8c553d",
+          "meta": 5
+        }
+      ]
+    },
+    {
+      "uid": "chisel:icepillar",
+      "name": "Ice Pillar",
+      "color": "#aabed9",
+      "alpha": 0.8,
+      "meta": 4,
+      "variants": [
+        {
+          "color": "#a9bbd3",
+          "meta": 5
+        },
+        {
+          "color": "#a7bad3",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:iron",
+      "name": "Block of Iron",
+      "color": "#9a9a9a",
+      "alpha": 1.0,
+      "meta": 0,
+      "variants": [
+        {
+          "color": "#828282",
+          "meta": 1
+        },
+        {
+          "color": "#3f4242",
+          "meta": 2
+        },
+        {
+          "color": "#7e7e7e",
+          "meta": 3
+        },
+        {
+          "color": "#7f8080",
+          "meta": 4
+        },
+        {
+          "color": "#7e8080",
+          "meta": 5
+        },
+        {
+          "color": "#626262",
+          "meta": 7
+        },
+        {
+          "color": "#634e3d",
+          "meta": 8
+        },
+        {
+          "color": "#927f5d",
+          "meta": 9
+        },
+        {
+          "color": "#747676",
+          "meta": 10
+        },
+        {
+          "color": "#332b3f",
+          "meta": 11
+        },
+        {
+          "color": "#2e2f2f",
+          "meta": 12
+        },
+        {
+          "color": "#646464",
+          "meta": 13
+        },
+        {
+          "color": "#6e6f6f",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:ironpane",
+      "name": "Iron Bars (WIP!)",
+      "color": "#5a5c5f",
+      "alpha": 1.0,
+      "meta": 4,
+      "variants": [
+        {
+          "color": "#6d6c6a",
+          "meta": 0
+        },
+        {
+          "color": "#555759",
+          "meta": 9
+        },
+        {
+          "color": "#57585a",
+          "meta": 10
+        },
+        {
+          "color": "#595a5c",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:laboratory",
+      "name": "Laboratory Block",
+      "color": "#68696b",
+      "alpha": 1.0,
+      "meta": 11,
+      "variants": [
+        {
+          "color": "#cdcbc7",
+          "meta": 0
+        },
+        {
+          "color": "#c9c7c3",
+          "meta": 1
+        },
+        {
+          "color": "#dadfe1",
+          "meta": 2
+        },
+        {
+          "color": "#d2d8da",
+          "meta": 3
+        },
+        {
+          "color": "#d9dee0",
+          "meta": 5
+        },
+        {
+          "color": "#d7dbdd",
+          "meta": 6
+        },
+        {
+          "color": "#99a1a4",
+          "meta": 7
+        },
+        {
+          "color": "#858c8f",
+          "meta": 8
+        },
+        {
+          "color": "#d3d9e1",
+          "meta": 9
+        },
+        {
+          "color": "#c1d0da",
+          "meta": 10
+        },
+        {
+          "color": "#656769",
+          "meta": 12
+        },
+        {
+          "color": "#dadfe0",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:lapis",
+      "name": "Lapis Lazuli Block",
+      "color": "#003ea4",
+      "alpha": 1.0,
+      "meta": 6,
+      "variants": [
+        {
+          "color": "#0e1880",
+          "meta": 0
+        },
+        {
+          "color": "#01258a",
+          "meta": 1
+        },
+        {
+          "color": "#001b7d",
+          "meta": 2
+        },
+        {
+          "color": "#2d5188",
+          "meta": 3
+        },
+        {
+          "color": "#003392",
+          "meta": 4
+        },
+        {
+          "color": "#1537a9",
+          "meta": 5
+        },
+        {
+          "color": "#464f6c",
+          "meta": 7
+        },
+        {
+          "color": "#2a5395",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:lavastone",
+      "name": "Lavastone",
+      "color": "#df5100",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:lavastone1",
+      "name": "Lavastone",
+      "color": "#df5100",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:lavastone2",
+      "name": "Lavastone",
+      "color": "#df5100",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:limestone",
+      "name": "Limestone",
+      "color": "#bfbd9e",
+      "alpha": 1.0,
+      "meta": 10,
+      "variants": [
+        {
+          "color": "#c5c2a3",
+          "meta": 0
+        },
+        {
+          "color": "#c8c5a5",
+          "meta": 1
+        },
+        {
+          "color": "#c4c1a1",
+          "meta": 2
+        },
+        {
+          "color": "#c6c3a4",
+          "meta": 3
+        },
+        {
+          "color": "#c5c1a2",
+          "meta": 4
+        },
+        {
+          "color": "#c3c0a1",
+          "meta": 5
+        },
+        {
+          "color": "#c2bfa0",
+          "meta": 6
+        },
+        {
+          "color": "#cac7a7",
+          "meta": 7
+        },
+        {
+          "color": "#c0bd9f",
+          "meta": 8
+        },
+        {
+          "color": "#c1bf9f",
+          "meta": 9
+        },
+        {
+          "color": "#c6c3a3",
+          "meta": 14
+        },
+        {
+          "color": "#c4c1a2",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:limestone1",
+      "name": "Limestone",
+      "color": "#ffffff",
+      "alpha": 1.0,
+      "meta": 15,
+      "variants": [
+        {
+          "color": "#c4c1a2",
+          "meta": 0
+        },
+        {
+          "color": "#bbb899",
+          "meta": 1
+        },
+        {
+          "color": "#c5c2a2",
+          "meta": 3
+        },
+        {
+          "color": "#cac7a7",
+          "meta": 4
+        },
+        {
+          "color": "#c9c6a5",
+          "meta": 5
+        },
+        {
+          "color": "#c4c1a1",
+          "meta": 6
+        },
+        {
+          "color": "#c3c0a0",
+          "meta": 8
+        },
+        {
+          "color": "#c8c5a5",
+          "meta": 9
+        }
+      ]
+    },
+    {
+      "uid": "chisel:limestone2",
+      "name": "Limestone",
+      "color": "#c3c0a1",
+      "alpha": 1.0,
+      "meta": 4,
+      "variants": [
+        {
+          "color": "#c8c5a5",
+          "meta": 0
+        },
+        {
+          "color": "#c4c1a1",
+          "meta": 2
+        },
+        {
+          "color": "#c6c3a4",
+          "meta": 3
+        },
+        {
+          "color": "#bebb9c",
+          "meta": 5
+        },
+        {
+          "color": "#c7c4a4",
+          "meta": 6
+        },
+        {
+          "color": "#cecbaa",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:marble",
+      "name": "Marble",
+      "color": "#c8cdcf",
+      "alpha": 1.0,
+      "meta": 0,
+      "variants": [
+        {
+          "color": "#cdd3d4",
+          "meta": 1
+        },
+        {
+          "color": "#c6cccd",
+          "meta": 2
+        },
+        {
+          "color": "#c5cbcc",
+          "meta": 4
+        },
+        {
+          "color": "#c3c8c9",
+          "meta": 5
+        },
+        {
+          "color": "#c1c7c8",
+          "meta": 6
+        },
+        {
+          "color": "#cdd2d3",
+          "meta": 7
+        },
+        {
+          "color": "#bfc5c6",
+          "meta": 8
+        },
+        {
+          "color": "#c0c5c7",
+          "meta": 9
+        },
+        {
+          "color": "#bec3c5",
+          "meta": 10
+        },
+        {
+          "color": "#c6cbcd",
+          "meta": 11
+        },
+        {
+          "color": "#c5cacb",
+          "meta": 12
+        },
+        {
+          "color": "#c7ccce",
+          "meta": 14
+        },
+        {
+          "color": "#c4cacb",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:marble1",
+      "name": "Marble",
+      "color": "#ffffff",
+      "alpha": 1.0,
+      "meta": 15,
+      "variants": [
+        {
+          "color": "#b7bdbe",
+          "meta": 1
+        },
+        {
+          "color": "#c9ced0",
+          "meta": 2
+        },
+        {
+          "color": "#c6cbcd",
+          "meta": 3
+        },
+        {
+          "color": "#ccd2d3",
+          "meta": 4
+        },
+        {
+          "color": "#cad0d1",
+          "meta": 5
+        },
+        {
+          "color": "#c4c9cb",
+          "meta": 6
+        },
+        {
+          "color": "#c2c7c9",
+          "meta": 7
+        },
+        {
+          "color": "#c5cacc",
+          "meta": 8
+        },
+        {
+          "color": "#cacfd1",
+          "meta": 9
+        }
+      ]
+    },
+    {
+      "uid": "chisel:marble2",
+      "name": "Marble",
+      "color": "#c8cdce",
+      "alpha": 1.0,
+      "meta": 3,
+      "variants": [
+        {
+          "color": "#cacfd1",
+          "meta": 0
+        },
+        {
+          "color": "#c3c8c9",
+          "meta": 1
+        },
+        {
+          "color": "#c4c9cb",
+          "meta": 2
+        },
+        {
+          "color": "#c4c9ca",
+          "meta": 4
+        },
+        {
+          "color": "#bdc2c4",
+          "meta": 5
+        },
+        {
+          "color": "#c9ced0",
+          "meta": 6
+        },
+        {
+          "color": "#d1d6d8",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:marblepillar",
+      "name": "Marble Pillar",
+      "color": "#c6c6c6",
+      "alpha": 1.0,
+      "meta": 3,
+      "variants": [
+        {
+          "color": "#cbcbcb",
+          "meta": 2
+        },
+        {
+          "color": "#b4b4b4",
+          "meta": 13
+        },
+        {
+          "color": "#b5b5b5",
+          "meta": 14
+        },
+        {
+          "color": "#b0b0b0",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:netherbrick",
+      "name": "Nether Bricks",
+      "color": "#8c564d",
+      "alpha": 1.0,
+      "meta": 9,
+      "variants": [
+        {
+          "color": "#0f1b56",
+          "meta": 0
+        },
+        {
+          "color": "#633129",
+          "meta": 1
+        },
+        {
+          "color": "#76423c",
+          "meta": 2
+        },
+        {
+          "color": "#624736",
+          "meta": 3
+        },
+        {
+          "color": "#5b4035",
+          "meta": 4
+        },
+        {
+          "color": "#462b4d",
+          "meta": 5
+        },
+        {
+          "color": "#623c0b",
+          "meta": 6
+        },
+        {
+          "color": "#472111",
+          "meta": 7
+        },
+        {
+          "color": "#7d5a46",
+          "meta": 8
+        },
+        {
+          "color": "#994e44",
+          "meta": 10
+        },
+        {
+          "color": "#8a3d37",
+          "meta": 11
+        },
+        {
+          "color": "#683938",
+          "meta": 12
+        },
+        {
+          "color": "#502420",
+          "meta": 13
+        },
+        {
+          "color": "#482522",
+          "meta": 14
+        },
+        {
+          "color": "#371825",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:netherrack",
+      "name": "Netherrack",
+      "color": "#733a30",
+      "alpha": 1.0,
+      "meta": 0,
+      "variants": [
+        {
+          "color": "#662b22",
+          "meta": 1
+        },
+        {
+          "color": "#5b312e",
+          "meta": 2
+        },
+        {
+          "color": "#061456",
+          "meta": 3
+        },
+        {
+          "color": "#030d53",
+          "meta": 4
+        },
+        {
+          "color": "#6c3e3c",
+          "meta": 5
+        },
+        {
+          "color": "#6d3534",
+          "meta": 6
+        },
+        {
+          "color": "#804744",
+          "meta": 7
+        },
+        {
+          "color": "#654938",
+          "meta": 8
+        },
+        {
+          "color": "#985c56",
+          "meta": 9
+        },
+        {
+          "color": "#a75149",
+          "meta": 10
+        },
+        {
+          "color": "#75342f",
+          "meta": 11
+        },
+        {
+          "color": "#48201e",
+          "meta": 12
+        },
+        {
+          "color": "#67061b",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:obsidian",
+      "name": "Obsidian",
+      "color": "#210d26",
+      "alpha": 1.0,
+      "meta": 12,
+      "variants": [
+        {
+          "color": "#21102a",
+          "meta": 0
+        },
+        {
+          "color": "#200e29",
+          "meta": 1
+        },
+        {
+          "color": "#1e0426",
+          "meta": 2
+        },
+        {
+          "color": "#1c0924",
+          "meta": 3
+        },
+        {
+          "color": "#180322",
+          "meta": 4
+        },
+        {
+          "color": "#1f0924",
+          "meta": 5
+        },
+        {
+          "color": "#16031b",
+          "meta": 6
+        },
+        {
+          "color": "#1e0525",
+          "meta": 7
+        },
+        {
+          "color": "#16031c",
+          "meta": 8
+        },
+        {
+          "color": "#15021b",
+          "meta": 9
+        },
+        {
+          "color": "#1a0520",
+          "meta": 10
+        },
+        {
+          "color": "#15021a",
+          "meta": 11
+        },
+        {
+          "color": "#24152b",
+          "meta": 13
+        },
+        {
+          "color": "#8c7150",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:paper",
+      "name": "Paper Wall",
+      "color": "#e0e0e0",
+      "alpha": 1.0,
+      "meta": 7,
+      "variants": [
+        {
+          "color": "#a49485",
+          "meta": 0
+        },
+        {
+          "color": "#958371",
+          "meta": 1
+        },
+        {
+          "color": "#897460",
+          "meta": 2
+        },
+        {
+          "color": "#9e9186",
+          "meta": 3
+        },
+        {
+          "color": "#beb5ac",
+          "meta": 4
+        },
+        {
+          "color": "#bdb4ac",
+          "meta": 5
+        },
+        {
+          "color": "#ada09e",
+          "meta": 6
+        },
+        {
+          "color": "#765e47",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:planks-acacia",
+      "name": "Acacia Planks",
+      "color": "#af734f",
+      "alpha": 1.0,
+      "meta": 7,
+      "variants": [
+        {
+          "color": "#a76d4b",
+          "meta": 0
+        },
+        {
+          "color": "#a06642",
+          "meta": 3
+        },
+        {
+          "color": "#aa7250",
+          "meta": 4
+        },
+        {
+          "color": "#905c40",
+          "meta": 5
+        },
+        {
+          "color": "#8d5c3f",
+          "meta": 6
+        },
+        {
+          "color": "#a66c4a",
+          "meta": 8
+        },
+        {
+          "color": "#a36a49",
+          "meta": 9
+        },
+        {
+          "color": "#a26948",
+          "meta": 10
+        },
+        {
+          "color": "#a46a49",
+          "meta": 11
+        },
+        {
+          "color": "#7e5339",
+          "meta": 12
+        },
+        {
+          "color": "#a06847",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:planks-birch",
+      "name": "Birch Planks",
+      "color": "#99865b",
+      "alpha": 1.0,
+      "meta": 12,
+      "variants": [
+        {
+          "color": "#c8b883",
+          "meta": 0
+        },
+        {
+          "color": "#b39d69",
+          "meta": 1
+        },
+        {
+          "color": "#b39e6c",
+          "meta": 2
+        },
+        {
+          "color": "#d1c289",
+          "meta": 3
+        },
+        {
+          "color": "#cbbc87",
+          "meta": 4
+        },
+        {
+          "color": "#ae9866",
+          "meta": 5
+        },
+        {
+          "color": "#a99c6f",
+          "meta": 6
+        },
+        {
+          "color": "#b8a16d",
+          "meta": 7
+        },
+        {
+          "color": "#b49f6c",
+          "meta": 9
+        },
+        {
+          "color": "#b29d6b",
+          "meta": 10
+        },
+        {
+          "color": "#ad996a",
+          "meta": 11
+        },
+        {
+          "color": "#a38d5d",
+          "meta": 13
+        },
+        {
+          "color": "#a48e5d",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:planks-dark-oak",
+      "name": "Dark Oak Planks",
+      "color": "#38271b",
+      "alpha": 1.0,
+      "meta": 7,
+      "variants": [
+        {
+          "color": "#332519",
+          "meta": 0
+        },
+        {
+          "color": "#3b2b1f",
+          "meta": 4
+        },
+        {
+          "color": "#291e15",
+          "meta": 5
+        },
+        {
+          "color": "#2c1f15",
+          "meta": 6
+        },
+        {
+          "color": "#332419",
+          "meta": 8
+        },
+        {
+          "color": "#312318",
+          "meta": 9
+        },
+        {
+          "color": "#322319",
+          "meta": 10
+        },
+        {
+          "color": "#322419",
+          "meta": 11
+        },
+        {
+          "color": "#281c13",
+          "meta": 12
+        },
+        {
+          "color": "#302218",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:planks-jungle",
+      "name": "Jungle Planks",
+      "color": "#9b7253",
+      "alpha": 1.0,
+      "meta": 2,
+      "variants": [
+        {
+          "color": "#9e7150",
+          "meta": 0
+        },
+        {
+          "color": "#9a6d4d",
+          "meta": 1
+        },
+        {
+          "color": "#af7e5b",
+          "meta": 3
+        },
+        {
+          "color": "#ac7d5b",
+          "meta": 4
+        },
+        {
+          "color": "#8f6547",
+          "meta": 5
+        },
+        {
+          "color": "#a37758",
+          "meta": 6
+        },
+        {
+          "color": "#8e5f44",
+          "meta": 7
+        },
+        {
+          "color": "#9d7354",
+          "meta": 8
+        },
+        {
+          "color": "#9e7353",
+          "meta": 9
+        },
+        {
+          "color": "#9a6f51",
+          "meta": 10
+        },
+        {
+          "color": "#8f6b50",
+          "meta": 11
+        },
+        {
+          "color": "#6b4c36",
+          "meta": 12
+        },
+        {
+          "color": "#896346",
+          "meta": 13
+        },
+        {
+          "color": "#8a6347",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:planks-oak",
+      "name": "Oak Planks",
+      "color": "#9b8153",
+      "alpha": 1.0,
+      "meta": 2,
+      "variants": [
+        {
+          "color": "#9e8150",
+          "meta": 0
+        },
+        {
+          "color": "#9a7d4d",
+          "meta": 1
+        },
+        {
+          "color": "#af8f5b",
+          "meta": 3
+        },
+        {
+          "color": "#ac8d5b",
+          "meta": 4
+        },
+        {
+          "color": "#8f7447",
+          "meta": 5
+        },
+        {
+          "color": "#a38758",
+          "meta": 6
+        },
+        {
+          "color": "#a48b5f",
+          "meta": 7
+        },
+        {
+          "color": "#9d8254",
+          "meta": 8
+        },
+        {
+          "color": "#9e8253",
+          "meta": 9
+        },
+        {
+          "color": "#9a7e51",
+          "meta": 10
+        },
+        {
+          "color": "#8f7750",
+          "meta": 11
+        },
+        {
+          "color": "#6b5736",
+          "meta": 12
+        },
+        {
+          "color": "#897046",
+          "meta": 13
+        },
+        {
+          "color": "#8a7147",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:planks-spruce",
+      "name": "Spruce Planks",
+      "color": "#4f3c2c",
+      "alpha": 1.0,
+      "meta": 5,
+      "variants": [
+        {
+          "color": "#614935",
+          "meta": 0
+        },
+        {
+          "color": "#69503b",
+          "meta": 3
+        },
+        {
+          "color": "#69503a",
+          "meta": 4
+        },
+        {
+          "color": "#543f2d",
+          "meta": 6
+        },
+        {
+          "color": "#6b5039",
+          "meta": 7
+        },
+        {
+          "color": "#604934",
+          "meta": 8
+        },
+        {
+          "color": "#5f4834",
+          "meta": 9
+        },
+        {
+          "color": "#5d4632",
+          "meta": 10
+        },
+        {
+          "color": "#5f4833",
+          "meta": 11
+        },
+        {
+          "color": "#4e3a29",
+          "meta": 12
+        },
+        {
+          "color": "#5c4632",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:prismarine",
+      "name": "Prismarine",
+      "color": "#61998b",
+      "alpha": 1.0,
+      "meta": 14,
+      "variants": [
+        {
+          "color": "#639b8e",
+          "meta": 1
+        },
+        {
+          "color": "#5f9789",
+          "meta": 2
+        },
+        {
+          "color": "#60988a",
+          "meta": 4
+        },
+        {
+          "color": "#5f9689",
+          "meta": 5
+        },
+        {
+          "color": "#5f9589",
+          "meta": 6
+        },
+        {
+          "color": "#629d8f",
+          "meta": 7
+        },
+        {
+          "color": "#5c9486",
+          "meta": 9
+        },
+        {
+          "color": "#5e9387",
+          "meta": 10
+        },
+        {
+          "color": "#60988b",
+          "meta": 11
+        },
+        {
+          "color": "#60978a",
+          "meta": 13
+        },
+        {
+          "color": "#61978a",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:prismarine1",
+      "name": "Prismarine",
+      "color": "#ffffff",
+      "alpha": 1.0,
+      "meta": 15,
+      "variants": [
+        {
+          "color": "#60978a",
+          "meta": 0
+        },
+        {
+          "color": "#548c7e",
+          "meta": 1
+        },
+        {
+          "color": "#609a8c",
+          "meta": 2
+        },
+        {
+          "color": "#60988a",
+          "meta": 3
+        },
+        {
+          "color": "#639d8f",
+          "meta": 4
+        },
+        {
+          "color": "#5d9889",
+          "meta": 5
+        },
+        {
+          "color": "#61978a",
+          "meta": 6
+        },
+        {
+          "color": "#5d9587",
+          "meta": 7
+        },
+        {
+          "color": "#589082",
+          "meta": 8
+        },
+        {
+          "color": "#629b8d",
+          "meta": 9
+        }
+      ]
+    },
+    {
+      "uid": "chisel:prismarine2",
+      "name": "Prismarine",
+      "color": "#609689",
+      "alpha": 1.0,
+      "meta": 1,
+      "variants": [
+        {
+          "color": "#629b8d",
+          "meta": 0
+        },
+        {
+          "color": "#61978a",
+          "meta": 2
+        },
+        {
+          "color": "#61998c",
+          "meta": 3
+        },
+        {
+          "color": "#5f9689",
+          "meta": 4
+        },
+        {
+          "color": "#5a9083",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:purpur",
+      "name": "Purpur Block",
+      "color": "#a579a5",
+      "alpha": 1.0,
+      "meta": 2,
+      "variants": [
+        {
+          "color": "#a87ba8",
+          "meta": 1
+        },
+        {
+          "color": "#a77aa7",
+          "meta": 3
+        },
+        {
+          "color": "#a57aa5",
+          "meta": 5
+        },
+        {
+          "color": "#a57ba5",
+          "meta": 6
+        },
+        {
+          "color": "#a879a8",
+          "meta": 7
+        },
+        {
+          "color": "#a478a4",
+          "meta": 9
+        },
+        {
+          "color": "#a47aa4",
+          "meta": 10
+        },
+        {
+          "color": "#a679a6",
+          "meta": 11
+        },
+        {
+          "color": "#a67aa6",
+          "meta": 14
+        },
+        {
+          "color": "#a67ba6",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:purpur1",
+      "name": "Purpur Block",
+      "color": "#a67aa6",
+      "alpha": 1.0,
+      "meta": 3,
+      "variants": [
+        {
+          "color": "#9e709e",
+          "meta": 1
+        },
+        {
+          "color": "#a678a6",
+          "meta": 2
+        },
+        {
+          "color": "#a87aa8",
+          "meta": 4
+        },
+        {
+          "color": "#a575a5",
+          "meta": 5
+        },
+        {
+          "color": "#a67ba6",
+          "meta": 6
+        },
+        {
+          "color": "#a478a4",
+          "meta": 7
+        },
+        {
+          "color": "#a375a3",
+          "meta": 8
+        },
+        {
+          "color": "#a77aa7",
+          "meta": 9
+        },
+        {
+          "color": "#ffffff",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:purpur2",
+      "name": "Purpur Block",
+      "color": "#a77aa7",
+      "alpha": 1.0,
+      "meta": 0,
+      "variants": [
+        {
+          "color": "#a57aa5",
+          "meta": 1
+        },
+        {
+          "color": "#a67ba6",
+          "meta": 2
+        },
+        {
+          "color": "#a175a1",
+          "meta": 3
+        },
+        {
+          "color": "#a779a7",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:quartz",
+      "name": "Block of Quartz",
+      "color": "#ebe8e2",
+      "alpha": 1.0,
+      "meta": 7,
+      "variants": [
+        {
+          "color": "#e9e7df",
+          "meta": 0
+        },
+        {
+          "color": "#eae8e1",
+          "meta": 1
+        },
+        {
+          "color": "#e8e5de",
+          "meta": 5
+        },
+        {
+          "color": "#e8e5dd",
+          "meta": 9
+        },
+        {
+          "color": "#e7e4dc",
+          "meta": 10
+        },
+        {
+          "color": "#e8e6df",
+          "meta": 11
+        },
+        {
+          "color": "#e9e6df",
+          "meta": 14
+        },
+        {
+          "color": "#e9e6de",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:quartz1",
+      "name": "Block of Quartz",
+      "color": "#e9e7e0",
+      "alpha": 1.0,
+      "meta": 5,
+      "variants": [
+        {
+          "color": "#e7e3db",
+          "meta": 1
+        },
+        {
+          "color": "#e9e6df",
+          "meta": 3
+        },
+        {
+          "color": "#e9e6de",
+          "meta": 7
+        },
+        {
+          "color": "#eae8e1",
+          "meta": 8
+        },
+        {
+          "color": "#e8e6de",
+          "meta": 12
+        },
+        {
+          "color": "#eae7e0",
+          "meta": 13
+        },
+        {
+          "color": "#e8e5de",
+          "meta": 14
+        },
+        {
+          "color": "#eae7e1",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:redstone",
+      "name": "Block of Redstone",
+      "color": "#a61906",
+      "alpha": 1.0,
+      "meta": 3,
+      "variants": [
+        {
+          "color": "#a41905",
+          "meta": 0
+        },
+        {
+          "color": "#a01805",
+          "meta": 2
+        },
+        {
+          "color": "#a81a06",
+          "meta": 4
+        },
+        {
+          "color": "#a31906",
+          "meta": 5
+        },
+        {
+          "color": "#a11905",
+          "meta": 6
+        },
+        {
+          "color": "#a71b07",
+          "meta": 7
+        },
+        {
+          "color": "#9d1806",
+          "meta": 8
+        },
+        {
+          "color": "#9b1705",
+          "meta": 9
+        },
+        {
+          "color": "#981705",
+          "meta": 10
+        },
+        {
+          "color": "#b01c07",
+          "meta": 11
+        },
+        {
+          "color": "#a21905",
+          "meta": 13
+        },
+        {
+          "color": "#a11805",
+          "meta": 14
+        },
+        {
+          "color": "#a71a06",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:redstone1",
+      "name": "Block of Redstone",
+      "color": "#a61a06",
+      "alpha": 1.0,
+      "meta": 0,
+      "variants": [
+        {
+          "color": "#991705",
+          "meta": 1
+        },
+        {
+          "color": "#a71a06",
+          "meta": 3
+        },
+        {
+          "color": "#a21805",
+          "meta": 4
+        },
+        {
+          "color": "#a31906",
+          "meta": 6
+        },
+        {
+          "color": "#a91a06",
+          "meta": 7
+        },
+        {
+          "color": "#a51906",
+          "meta": 8
+        },
+        {
+          "color": "#a91b07",
+          "meta": 9
+        },
+        {
+          "color": "#981705",
+          "meta": 10
+        },
+        {
+          "color": "#a41905",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:sandstone-scribbles",
+      "name": "Sandstone Scribbles",
+      "color": "#c6bf8f",
+      "alpha": 1.0,
+      "meta": 12,
+      "variants": [
+        {
+          "color": "#cdc594",
+          "meta": 0
+        },
+        {
+          "color": "#cbc494",
+          "meta": 2
+        },
+        {
+          "color": "#cdc697",
+          "meta": 3
+        },
+        {
+          "color": "#c9c191",
+          "meta": 5
+        },
+        {
+          "color": "#cfc898",
+          "meta": 6
+        },
+        {
+          "color": "#cac393",
+          "meta": 7
+        },
+        {
+          "color": "#cdc696",
+          "meta": 8
+        },
+        {
+          "color": "#cec798",
+          "meta": 9
+        },
+        {
+          "color": "#c2bb8d",
+          "meta": 10
+        },
+        {
+          "color": "#c5be8f",
+          "meta": 11
+        },
+        {
+          "color": "#c9c292",
+          "meta": 13
+        },
+        {
+          "color": "#ccc594",
+          "meta": 14
+        },
+        {
+          "color": "#c8c192",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:sandstonered",
+      "name": "Red Sandstone",
+      "color": "#9f511c",
+      "alpha": 1.0,
+      "meta": 9,
+      "variants": [
+        {
+          "color": "#a5551f",
+          "meta": 1
+        },
+        {
+          "color": "#a2531e",
+          "meta": 2
+        },
+        {
+          "color": "#a2531c",
+          "meta": 7
+        },
+        {
+          "color": "#a0521d",
+          "meta": 10
+        },
+        {
+          "color": "#a2521d",
+          "meta": 11
+        },
+        {
+          "color": "#a1521d",
+          "meta": 13
+        },
+        {
+          "color": "#a2531d",
+          "meta": 14
+        },
+        {
+          "color": "#a1531d",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:sandstonered1",
+      "name": "Red Sandstone",
+      "color": "#ffffff",
+      "alpha": 1.0,
+      "meta": 15,
+      "variants": [
+        {
+          "color": "#9b4e1a",
+          "meta": 1
+        },
+        {
+          "color": "#a1521c",
+          "meta": 2
+        },
+        {
+          "color": "#a1531d",
+          "meta": 3
+        },
+        {
+          "color": "#9f511b",
+          "meta": 5
+        },
+        {
+          "color": "#a0521c",
+          "meta": 8
+        },
+        {
+          "color": "#a2531d",
+          "meta": 9
+        }
+      ]
+    },
+    {
+      "uid": "chisel:sandstonered2",
+      "name": "Red Sandstone",
+      "color": "#9f511c",
+      "alpha": 1.0,
+      "meta": 5,
+      "variants": [
+        {
+          "color": "#a1531d",
+          "meta": 1
+        },
+        {
+          "color": "#a2531d",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:sandstoneyellow",
+      "name": "Sandstone",
+      "color": "#d4cc9f",
+      "alpha": 1.0,
+      "meta": 10,
+      "variants": [
+        {
+          "color": "#d9d1a6",
+          "meta": 1
+        },
+        {
+          "color": "#d5cea2",
+          "meta": 2
+        },
+        {
+          "color": "#d6cea1",
+          "meta": 5
+        },
+        {
+          "color": "#d5cda1",
+          "meta": 6
+        },
+        {
+          "color": "#dbd3a6",
+          "meta": 7
+        },
+        {
+          "color": "#d4cca0",
+          "meta": 8
+        },
+        {
+          "color": "#d7cfa3",
+          "meta": 11
+        },
+        {
+          "color": "#d8d0a3",
+          "meta": 14
+        },
+        {
+          "color": "#d7cfa2",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:sandstoneyellow1",
+      "name": "Sandstone",
+      "color": "#ffffff",
+      "alpha": 1.0,
+      "meta": 15,
+      "variants": [
+        {
+          "color": "#d0c89a",
+          "meta": 1
+        },
+        {
+          "color": "#d8d0a4",
+          "meta": 2
+        },
+        {
+          "color": "#d7cfa2",
+          "meta": 3
+        },
+        {
+          "color": "#dad2a6",
+          "meta": 4
+        },
+        {
+          "color": "#d9d1a5",
+          "meta": 5
+        },
+        {
+          "color": "#d6cea2",
+          "meta": 6
+        },
+        {
+          "color": "#d5cda0",
+          "meta": 7
+        },
+        {
+          "color": "#d4cca1",
+          "meta": 8
+        },
+        {
+          "color": "#dad2a5",
+          "meta": 9
+        }
+      ]
+    },
+    {
+      "uid": "chisel:sandstoneyellow2",
+      "name": "Sandstone",
+      "color": "#d1c99d",
+      "alpha": 1.0,
+      "meta": 5,
+      "variants": [
+        {
+          "color": "#dad2a5",
+          "meta": 0
+        },
+        {
+          "color": "#d6cea1",
+          "meta": 1
+        },
+        {
+          "color": "#d8d1a4",
+          "meta": 3
+        },
+        {
+          "color": "#d6cea2",
+          "meta": 4
+        },
+        {
+          "color": "#d9d1a4",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:stonebrick",
+      "name": "Chiseled Stone",
+      "color": "#797979",
+      "alpha": 1.0,
+      "meta": 14,
+      "variants": [
+        {
+          "color": "#767676",
+          "meta": 6
+        },
+        {
+          "color": "#7c7c7c",
+          "meta": 7
+        },
+        {
+          "color": "#747474",
+          "meta": 9
+        },
+        {
+          "color": "#757575",
+          "meta": 10
+        },
+        {
+          "color": "#787878",
+          "meta": 12
+        },
+        {
+          "color": "#777777",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:stonebrick1",
+      "name": "Chiseled Stone",
+      "color": "#787878",
+      "alpha": 1.0,
+      "meta": 3,
+      "variants": [
+        {
+          "color": "#6e6e6e",
+          "meta": 1
+        },
+        {
+          "color": "#7c7c7c",
+          "meta": 4
+        },
+        {
+          "color": "#797979",
+          "meta": 5
+        },
+        {
+          "color": "#777777",
+          "meta": 6
+        },
+        {
+          "color": "#767676",
+          "meta": 7
+        },
+        {
+          "color": "#757575",
+          "meta": 8
+        },
+        {
+          "color": "#7a7a7a",
+          "meta": 9
+        },
+        {
+          "color": "#ffffff",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:stonebrick2",
+      "name": "Chiseled Stone",
+      "color": "#767676",
+      "alpha": 1.0,
+      "meta": 0,
+      "variants": [
+        {
+          "color": "#797979",
+          "meta": 1
+        },
+        {
+          "color": "#777777",
+          "meta": 2
+        },
+        {
+          "color": "#727272",
+          "meta": 3
+        },
+        {
+          "color": "#7a7a7a",
+          "meta": 4
+        },
+        {
+          "color": "#6c6c6c",
+          "meta": 5
+        },
+        {
+          "color": "#6f6f6f",
+          "meta": 6
+        },
+        {
+          "color": "#7e7e7e",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:technical",
+      "name": "Factory Block",
+      "color": "#7b785f",
+      "alpha": 1.0,
+      "meta": 9,
+      "variants": [
+        {
+          "color": "#514a48",
+          "meta": 0
+        },
+        {
+          "color": "#67664e",
+          "meta": 1
+        },
+        {
+          "color": "#657071",
+          "meta": 2
+        },
+        {
+          "color": "#5d544e",
+          "meta": 3
+        },
+        {
+          "color": "#586060",
+          "meta": 4
+        },
+        {
+          "color": "#494c46",
+          "meta": 5
+        },
+        {
+          "color": "#494e4e",
+          "meta": 6
+        },
+        {
+          "color": "#7b6c63",
+          "meta": 7
+        },
+        {
+          "color": "#808267",
+          "meta": 8
+        },
+        {
+          "color": "#674a1b",
+          "meta": 10
+        },
+        {
+          "color": "#443a32",
+          "meta": 11
+        },
+        {
+          "color": "#7d776d",
+          "meta": 12
+        },
+        {
+          "color": "#434d4f",
+          "meta": 13
+        },
+        {
+          "color": "#515757",
+          "meta": 14
+        },
+        {
+          "color": "#4b4338",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:technical1",
+      "name": "Factory Block",
+      "color": "#5e5e5e",
+      "alpha": 1.0,
+      "meta": 15,
+      "variants": [
+        {
+          "color": "#655c58",
+          "meta": 0
+        },
+        {
+          "color": "#687575",
+          "meta": 1
+        },
+        {
+          "color": "#545a5a",
+          "meta": 2
+        },
+        {
+          "color": "#575e5e",
+          "meta": 3
+        }
+      ]
+    },
+    {
+      "uid": "chisel:technicalnew",
+      "name": "Factory Block",
+      "color": "#626262",
+      "alpha": 1.0,
+      "meta": 2,
+      "variants": [
+        {
+          "color": "#647068",
+          "meta": 0
+        },
+        {
+          "color": "#a75f28",
+          "meta": 1
+        },
+        {
+          "color": "#705446",
+          "meta": 3
+        },
+        {
+          "color": "#4d5859",
+          "meta": 4
+        },
+        {
+          "color": "#5c5d5c",
+          "meta": 5
+        },
+        {
+          "color": "#575f5f",
+          "meta": 6
+        },
+        {
+          "color": "#4e4946",
+          "meta": 7
+        },
+        {
+          "color": "#888e8e",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:temple",
+      "name": "Temple Block",
+      "color": "#848fae",
+      "alpha": 1.0,
+      "meta": 12,
+      "variants": [
+        {
+          "color": "#495270",
+          "meta": 1
+        },
+        {
+          "color": "#646f90",
+          "meta": 3
+        },
+        {
+          "color": "#646f8f",
+          "meta": 6
+        },
+        {
+          "color": "#646e8f",
+          "meta": 7
+        },
+        {
+          "color": "#5f698b",
+          "meta": 8
+        },
+        {
+          "color": "#657091",
+          "meta": 9
+        },
+        {
+          "color": "#657090",
+          "meta": 10
+        },
+        {
+          "color": "#606b8c",
+          "meta": 11
+        },
+        {
+          "color": "#808bac",
+          "meta": 13
+        },
+        {
+          "color": "#636e8f",
+          "meta": 14
+        },
+        {
+          "color": "#626d8e",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:templemossy",
+      "name": "Mossy Temple Block",
+      "color": "#709690",
+      "alpha": 1.0,
+      "meta": 12,
+      "variants": [
+        {
+          "color": "#547a75",
+          "meta": 0
+        },
+        {
+          "color": "#3f645d",
+          "meta": 1
+        },
+        {
+          "color": "#557c77",
+          "meta": 7
+        },
+        {
+          "color": "#527874",
+          "meta": 8
+        },
+        {
+          "color": "#577d78",
+          "meta": 9
+        },
+        {
+          "color": "#567d78",
+          "meta": 10
+        },
+        {
+          "color": "#527873",
+          "meta": 11
+        },
+        {
+          "color": "#6c938e",
+          "meta": 13
+        },
+        {
+          "color": "#567c77",
+          "meta": 14
+        },
+        {
+          "color": "#557b76",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:testblock",
+      "name": "Carvable",
+      "color": "#ffffff",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:tyrian",
+      "name": "Tyrian",
+      "color": "#464646",
+      "alpha": 1.0,
+      "meta": 10,
+      "variants": [
+        {
+          "color": "#515151",
+          "meta": 0
+        },
+        {
+          "color": "#474747",
+          "meta": 1
+        },
+        {
+          "color": "#392c43",
+          "meta": 2
+        },
+        {
+          "color": "#523f59",
+          "meta": 3
+        },
+        {
+          "color": "#372e23",
+          "meta": 4
+        },
+        {
+          "color": "#787878",
+          "meta": 5
+        },
+        {
+          "color": "#414141",
+          "meta": 6
+        },
+        {
+          "color": "#7a7b7a",
+          "meta": 7
+        },
+        {
+          "color": "#0c1a27",
+          "meta": 8
+        },
+        {
+          "color": "#1b2531",
+          "meta": 9
+        },
+        {
+          "color": "#1b2834",
+          "meta": 11
+        },
+        {
+          "color": "#161616",
+          "meta": 12
+        },
+        {
+          "color": "#141414",
+          "meta": 13
+        },
+        {
+          "color": "#262626",
+          "meta": 14
+        },
+        {
+          "color": "#828382",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:valentines",
+      "name": "Valentines\u0027 Block",
+      "color": "#777777",
+      "alpha": 1.0,
+      "meta": 1,
+      "variants": [
+        {
+          "color": "#b388b2",
+          "meta": 0
+        },
+        {
+          "color": "#b45a93",
+          "meta": 2
+        },
+        {
+          "color": "#85727d",
+          "meta": 3
+        },
+        {
+          "color": "#c673a4",
+          "meta": 4
+        },
+        {
+          "color": "#bc6f9d",
+          "meta": 5
+        },
+        {
+          "color": "#bf709f",
+          "meta": 6
+        },
+        {
+          "color": "#c97595",
+          "meta": 7
+        },
+        {
+          "color": "#d17fb0",
+          "meta": 8
+        },
+        {
+          "color": "#b4a3a8",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:voidstone",
+      "name": "Voidstone",
+      "color": "#7a2b5a",
+      "alpha": 1.0,
+      "meta": 5,
+      "variants": [
+        {
+          "color": "#442251",
+          "meta": 0
+        },
+        {
+          "color": "#451e56",
+          "meta": 1
+        },
+        {
+          "color": "#331740",
+          "meta": 2
+        },
+        {
+          "color": "#26102b",
+          "meta": 3
+        },
+        {
+          "color": "#5a2e62",
+          "meta": 4
+        },
+        {
+          "color": "#2d183c",
+          "meta": 6
+        },
+        {
+          "color": "#5d1f75",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:voidstonerunic",
+      "name": "Runed Voidstone",
+      "color": "#442a62",
+      "alpha": 1.0,
+      "meta": 6,
+      "variants": [
+        {
+          "color": "#42164b",
+          "meta": 0
+        },
+        {
+          "color": "#551b4f",
+          "meta": 1
+        },
+        {
+          "color": "#461e4f",
+          "meta": 2
+        },
+        {
+          "color": "#52204e",
+          "meta": 3
+        },
+        {
+          "color": "#481c60",
+          "meta": 4
+        },
+        {
+          "color": "#4f1a59",
+          "meta": 5
+        },
+        {
+          "color": "#4c2155",
+          "meta": 7
+        },
+        {
+          "color": "#461a4e",
+          "meta": 8
+        },
+        {
+          "color": "#57205d",
+          "meta": 9
+        },
+        {
+          "color": "#4c2c55",
+          "meta": 10
+        },
+        {
+          "color": "#582c56",
+          "meta": 11
+        },
+        {
+          "color": "#4b2461",
+          "meta": 12
+        },
+        {
+          "color": "#561b5f",
+          "meta": 13
+        },
+        {
+          "color": "#56214e",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:waterstone",
+      "name": "Waterstone",
+      "color": "#2b3134",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:waterstone1",
+      "name": "Waterstone",
+      "color": "#2b3134",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:waterstone2",
+      "name": "Waterstone",
+      "color": "#2b3134",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "chisel:wool_black",
+      "name": "Black Wool",
+      "color": "#282828",
+      "alpha": 1.0,
+      "meta": 0,
+      "variants": [
+        {
+          "color": "#29203f",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:wool_blue",
+      "name": "Blue Wool",
+      "color": "#4f4ca3",
+      "alpha": 1.0,
+      "meta": 15,
+      "variants": [
+        {
+          "color": "#353946",
+          "meta": 0
+        }
+      ]
+    },
+    {
+      "uid": "chisel:wool_brown",
+      "name": "Brown Wool",
+      "color": "#4d2800",
+      "alpha": 1.0,
+      "meta": 0,
+      "variants": [
+        {
+          "color": "#975f27",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:wool_cyan",
+      "name": "Cyan Wool",
+      "color": "#bc9533",
+      "alpha": 1.0,
+      "meta": 0,
+      "variants": [
+        {
+          "color": "#3bb2a5",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:wool_gray",
+      "name": "Gray Wool",
+      "color": "#515151",
+      "alpha": 1.0,
+      "meta": 0,
+      "variants": [
+        {
+          "color": "#594141",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:wool_green",
+      "name": "Green Wool",
+      "color": "#104317",
+      "alpha": 1.0,
+      "meta": 15,
+      "variants": [
+        {
+          "color": "#033a1c",
+          "meta": 0
+        }
+      ]
+    },
+    {
+      "uid": "chisel:wool_lightblue",
+      "name": "Light Blue Wool",
+      "color": "#9ee0ff",
+      "alpha": 1.0,
+      "meta": 15,
+      "variants": [
+        {
+          "color": "#6482bf",
+          "meta": 0
+        }
+      ]
+    },
+    {
+      "uid": "chisel:wool_lightgray",
+      "name": "Light Gray Wool",
+      "color": "#967957",
+      "alpha": 1.0,
+      "meta": 0,
+      "variants": [
+        {
+          "color": "#a6949a",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:wool_lime",
+      "name": "Lime Wool",
+      "color": "#b3c880",
+      "alpha": 1.0,
+      "meta": 15,
+      "variants": [
+        {
+          "color": "#51764c",
+          "meta": 0
+        }
+      ]
+    },
+    {
+      "uid": "chisel:wool_magenta",
+      "name": "Magenta Wool",
+      "color": "#d57db4",
+      "alpha": 1.0,
+      "meta": 15,
+      "variants": [
+        {
+          "color": "#9f749d",
+          "meta": 0
+        }
+      ]
+    },
+    {
+      "uid": "chisel:wool_orange",
+      "name": "Orange Wool",
+      "color": "#f7983f",
+      "alpha": 1.0,
+      "meta": 15,
+      "variants": [
+        {
+          "color": "#d7a458",
+          "meta": 0
+        }
+      ]
+    },
+    {
+      "uid": "chisel:wool_pink",
+      "name": "Pink Wool",
+      "color": "#ce93ab",
+      "alpha": 1.0,
+      "meta": 0,
+      "variants": [
+        {
+          "color": "#f9aee3",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:wool_purple",
+      "name": "Purple Wool",
+      "color": "#2c092b",
+      "alpha": 1.0,
+      "meta": 15,
+      "variants": [
+        {
+          "color": "#8c0c3a",
+          "meta": 0
+        }
+      ]
+    },
+    {
+      "uid": "chisel:wool_red",
+      "name": "Red Wool",
+      "color": "#d56031",
+      "alpha": 1.0,
+      "meta": 0,
+      "variants": [
+        {
+          "color": "#e05d25",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:wool_white",
+      "name": "Wool",
+      "color": "#a0a0a0",
+      "alpha": 1.0,
+      "meta": 0,
+      "variants": [
+        {
+          "color": "#d7cabd",
+          "meta": 15
+        }
+      ]
+    },
+    {
+      "uid": "chisel:wool_yellow",
+      "name": "Yellow Wool",
+      "color": "#f4dc6e",
+      "alpha": 1.0,
+      "meta": 15,
+      "variants": [
+        {
+          "color": "#c3961c",
+          "meta": 0
+        }
+      ]
+    },
+    {
+      "uid": "energyconverters:energy_consumer_eu",
+      "name": "EV Energy Consumer (IC2)",
+      "color": "#857166",
+      "alpha": 1.0,
+      "meta": 3,
+      "variants": [
+        {
+          "name": "LV Energy Consumer (IC2)",
+          "color": "#806b69",
+          "meta": 0
+        },
+        {
+          "name": "MV Energy Consumer (IC2)",
+          "color": "#826d68",
+          "meta": 1
+        },
+        {
+          "name": "HV Energy Consumer (IC2)",
+          "color": "#836f67",
+          "meta": 2
+        },
+        {
+          "name": "IV Energy Consumer (IC2)",
+          "color": "#8f8166",
+          "meta": 4
+        }
+      ]
+    },
+    {
+      "uid": "energyconverters:energy_consumer_fe",
+      "name": "FE Energy Consumer",
+      "color": "#7d7682",
+      "alpha": 1.0,
+      "meta": 0
+    },
+    {
+      "uid": "energyconverters:energy_consumer_mj",
+      "name": "ConsumerMj",
+      "color": "#6d789a",
+      "alpha": 1.0,
+      "meta": 0
+    },
+    {
+      "uid": "energyconverters:energy_consumer_rf",
+      "name": "RF Energy Consumer",
+      "color": "#8c6e6c",
+      "alpha": 1.0,
+      "meta": 0
+    },
+    {
+      "uid": "energyconverters:energy_producer_eu",
+      "name": "EV Energy Producer (IC2)",
+      "color": "#685f49",
+      "alpha": 1.0,
+      "meta": 3,
+      "variants": [
+        {
+          "name": "LV Energy Producer (IC2)",
+          "color": "#635748",
+          "meta": 0
+        },
+        {
+          "name": "MV Energy Producer (IC2)",
+          "color": "#655948",
+          "meta": 1
+        },
+        {
+          "name": "HV Energy Producer (IC2)",
+          "color": "#665c48",
+          "meta": 2
+        },
+        {
+          "name": "IV Energy Producer (IC2)",
+          "color": "#79724d",
+          "meta": 4
+        }
+      ]
+    },
+    {
+      "uid": "energyconverters:energy_producer_fe",
+      "name": "FE Energy Producer",
+      "color": "#926f6e",
+      "alpha": 1.0,
+      "meta": 0
+    },
+    {
+      "uid": "energyconverters:energy_producer_mj",
+      "name": "ProducerMj",
+      "color": "#817185",
+      "alpha": 1.0,
+      "meta": 0
+    },
+    {
+      "uid": "energyconverters:energy_producer_rf",
+      "name": "RF Energy Producer",
+      "color": "#6c564a",
+      "alpha": 1.0,
+      "meta": 0
     },
     {
       "uid": "extrautils2:analogcrafter",
@@ -5394,6 +12806,928 @@ var colorpalette={
       "meta": 15
     },
     {
+      "uid": "immersiveengineering:cloth_device",
+      "name": "Balloon",
+      "color": "#ffffff",
+      "alpha": 1.0,
+      "meta": 1,
+      "variants": [
+        {
+          "name": "Strip Curtain",
+          "color": "#e5c9a7",
+          "meta": 2
+        }
+      ]
+    },
+    {
+      "uid": "immersiveengineering:connector",
+      "name": "Current Transformer",
+      "color": "#ffffff",
+      "alpha": 1.0,
+      "meta": 11,
+      "variants": [
+        {
+          "name": "Structural Cable Connector",
+          "color": "#4d4d4d",
+          "meta": 6
+        },
+        {
+          "name": "Breaker Switch",
+          "color": "#5c524b",
+          "meta": 9
+        },
+        {
+          "name": "Redstone Breaker",
+          "color": "#4f4845",
+          "meta": 10
+        },
+        {
+          "name": "Redstone Wire Connector",
+          "color": "#a0826e",
+          "meta": 12
+        }
+      ]
+    },
+    {
+      "uid": "immersiveengineering:conveyor",
+      "name": "Conveyor",
+      "color": "#884830",
+      "alpha": 1.0,
+      "meta": 0
+    },
+    {
+      "uid": "immersiveengineering:fluidbiodiesel",
+      "name": "Biodiesel",
+      "color": "#56340e",
+      "alpha": 0.3,
+      "meta": 15
+    },
+    {
+      "uid": "immersiveengineering:fluidconcrete",
+      "name": "Liquid Concrete",
+      "color": "#a5a5a5",
+      "alpha": 0.3,
+      "meta": 15
+    },
+    {
+      "uid": "immersiveengineering:fluidcreosote",
+      "name": "Creosote Oil",
+      "color": "#361300",
+      "alpha": 0.3,
+      "meta": 15
+    },
+    {
+      "uid": "immersiveengineering:fluidethanol",
+      "name": "Ethanol",
+      "color": "#d3d3ce",
+      "alpha": 0.3,
+      "meta": 15
+    },
+    {
+      "uid": "immersiveengineering:fluidplantoil",
+      "name": "Plant Oil",
+      "color": "#918f4a",
+      "alpha": 0.3,
+      "meta": 15
+    },
+    {
+      "uid": "immersiveengineering:hemp",
+      "name": "Industrial Hemp",
+      "color": "#237033",
+      "alpha": 1.0,
+      "meta": 0,
+      "variants": [
+        {
+          "color": "#236e33",
+          "meta": 1
+        },
+        {
+          "color": "#247234",
+          "meta": 2
+        },
+        {
+          "color": "#247235",
+          "meta": 3
+        },
+        {
+          "color": "#416933",
+          "meta": 4
+        },
+        {
+          "color": "#436532",
+          "meta": 5
+        }
+      ]
+    },
+    {
+      "uid": "immersiveengineering:metal_decoration0",
+      "name": "High-Voltage Coil Block",
+      "color": "#4f4f4f",
+      "alpha": 1.0,
+      "meta": 2,
+      "variants": [
+        {
+          "name": "Copper Coil Block",
+          "color": "#b5735b",
+          "meta": 0
+        },
+        {
+          "name": "Electrum Coil Block",
+          "color": "#d5a360",
+          "meta": 1
+        },
+        {
+          "name": "Redstone Engineering Block",
+          "color": "#662525",
+          "meta": 3
+        },
+        {
+          "name": "Light Engineering Block",
+          "color": "#6b5645",
+          "meta": 4
+        },
+        {
+          "name": "Heavy Engineering Block",
+          "color": "#3b3a38",
+          "meta": 5
+        },
+        {
+          "name": "Generator Block",
+          "color": "#715645",
+          "meta": 6
+        },
+        {
+          "name": "Radiator Block",
+          "color": "#323232",
+          "meta": 7
+        }
+      ]
+    },
+    {
+      "uid": "immersiveengineering:metal_decoration1",
+      "name": "Steel Fence",
+      "color": "#525252",
+      "alpha": 1.0,
+      "meta": 0,
+      "variants": [
+        {
+          "name": "Steel Scaffolding",
+          "color": "#444444",
+          "meta": 3
+        },
+        {
+          "name": "Aluminium Fence",
+          "color": "#bbccca",
+          "meta": 4
+        },
+        {
+          "name": "Aluminium Scaffolding",
+          "color": "#a9b7b6",
+          "meta": 7
+        }
+      ]
+    },
+    {
+      "uid": "immersiveengineering:metal_decoration2",
+      "name": "Steel Post",
+      "color": "#404040",
+      "alpha": 1.0,
+      "meta": 0,
+      "variants": [
+        {
+          "name": "Aluminium Post",
+          "color": "#656a6b",
+          "meta": 2
+        },
+        {
+          "name": "Lantern",
+          "color": "#604b3a",
+          "meta": 4
+        },
+        {
+          "name": "Razor Wire",
+          "color": "#4a4340",
+          "meta": 5
+        },
+        {
+          "name": "Engineer\u0027s Toolbox",
+          "color": "#ffffff",
+          "meta": 6
+        }
+      ]
+    },
+    {
+      "uid": "immersiveengineering:metal_device0",
+      "name": "Metal Barrel",
+      "color": "#8b8b8b",
+      "alpha": 1.0,
+      "meta": 4,
+      "variants": [
+        {
+          "name": "LV Capacitor",
+          "color": "#5b3726",
+          "meta": 0
+        },
+        {
+          "name": "MV Capacitor",
+          "color": "#5d3522",
+          "meta": 1
+        },
+        {
+          "name": "HV Capacitor",
+          "color": "#5e3621",
+          "meta": 2
+        },
+        {
+          "name": "Creative Capacitor",
+          "color": "#5b3028",
+          "meta": 3
+        },
+        {
+          "name": "Fluid Pump",
+          "color": "#777777",
+          "meta": 5
+        },
+        {
+          "name": "Fluid Pump",
+          "color": "#ffffff",
+          "meta": 5
+        },
+        {
+          "name": "Fluid Outlet",
+          "color": "#818181",
+          "meta": 6
+        }
+      ]
+    },
+    {
+      "uid": "immersiveengineering:metal_device1",
+      "name": "Tesla Coil",
+      "color": "#ffffff",
+      "alpha": 1.0,
+      "meta": 8,
+      "variants": [
+        {
+          "name": "External Heater",
+          "color": "#494c50",
+          "meta": 1
+        },
+        {
+          "name": "External Heater",
+          "color": "#5b5351",
+          "meta": 1
+        },
+        {
+          "name": "Kinetic Dynamo",
+          "color": "#6c6b6b",
+          "meta": 2
+        },
+        {
+          "name": "Charging Station",
+          "color": "#785f52",
+          "meta": 5
+        },
+        {
+          "name": "Fluid Pipe",
+          "color": "#838383",
+          "meta": 6
+        },
+        {
+          "name": "Core Sample Drill",
+          "color": "#59514d",
+          "meta": 7
+        },
+        {
+          "name": "Floodlight",
+          "color": "#6e6352",
+          "meta": 9
+        },
+        {
+          "name": "Floodlight",
+          "color": "#756a59",
+          "meta": 9
+        },
+        {
+          "name": "Chemthrower Turret",
+          "color": "#554b45",
+          "meta": 10
+        },
+        {
+          "name": "Gun Turret",
+          "color": "#5e5248",
+          "meta": 11
+        },
+        {
+          "name": "MetalDevice1",
+          "color": "#675b54",
+          "meta": 12
+        },
+        {
+          "name": "Garden Cloche",
+          "color": "#72615b",
+          "meta": 13
+        }
+      ]
+    },
+    {
+      "uid": "immersiveengineering:metal_multiblock",
+      "name": "Mixer",
+      "color": "#ffffff",
+      "alpha": 1.0,
+      "meta": 15,
+      "variants": [
+        {
+          "name": "Automated Engineers Workbench",
+          "color": "#6d8fc3",
+          "meta": 5
+        },
+        {
+          "name": "Bottling Machine",
+          "color": "#504b4a",
+          "meta": 6
+        },
+        {
+          "name": "Bucket Wheel",
+          "color": "#515451",
+          "meta": 12
+        },
+        {
+          "name": "Arc Furnace",
+          "color": "#555351",
+          "meta": 13
+        }
+      ]
+    },
+    {
+      "uid": "immersiveengineering:molten_constantan",
+      "name": "Molten Constantan",
+      "color": "#b5b5b5",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "immersiveengineering:molten_uranium",
+      "name": "Molten Uranium",
+      "color": "#b5b5b5",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "immersiveengineering:ore",
+      "name": "Nickel Ore",
+      "color": "#7c7c7c",
+      "alpha": 1.0,
+      "meta": 4,
+      "variants": [
+        {
+          "name": "Copper Ore",
+          "color": "#787a79",
+          "meta": 0
+        },
+        {
+          "name": "Bauxite Ore",
+          "color": "#7a7978",
+          "meta": 1
+        },
+        {
+          "name": "Lead Ore",
+          "color": "#777778",
+          "meta": 2
+        },
+        {
+          "name": "Silver Ore",
+          "color": "#7d7e7e",
+          "meta": 3
+        },
+        {
+          "name": "Uranium Ore",
+          "color": "#787a78",
+          "meta": 5
+        }
+      ]
+    },
+    {
+      "uid": "immersiveengineering:sheetmetal",
+      "name": "Steel Sheetmetal",
+      "color": "#4b4b4b",
+      "alpha": 1.0,
+      "meta": 8,
+      "variants": [
+        {
+          "name": "Copper Sheetmetal",
+          "color": "#c66e21",
+          "meta": 0
+        },
+        {
+          "name": "Aluminium Sheetmetal",
+          "color": "#b9cac8",
+          "meta": 1
+        },
+        {
+          "name": "Lead Sheetmetal",
+          "color": "#36393f",
+          "meta": 2
+        },
+        {
+          "name": "Silver Sheetmetal",
+          "color": "#89a8a6",
+          "meta": 3
+        },
+        {
+          "name": "Nickel Sheetmetal",
+          "color": "#767b6c",
+          "meta": 4
+        },
+        {
+          "name": "Uranium Sheetmetal",
+          "color": "#4f7252",
+          "meta": 5
+        },
+        {
+          "name": "Constantan Sheetmetal",
+          "color": "#db664c",
+          "meta": 6
+        },
+        {
+          "name": "Electrum Sheetmetal",
+          "color": "#e1a251",
+          "meta": 7
+        },
+        {
+          "name": "Iron Sheetmetal",
+          "color": "#b2b2b2",
+          "meta": 9
+        },
+        {
+          "name": "Gold Sheetmetal",
+          "color": "#a98e2e",
+          "meta": 10
+        }
+      ]
+    },
+    {
+      "uid": "immersiveengineering:sheetmetal_slab",
+      "name": "Steel Sheetmetal Slab",
+      "color": "#4b4b4b",
+      "alpha": 1.0,
+      "meta": 8,
+      "variants": [
+        {
+          "name": "Copper Sheetmetal Slab",
+          "color": "#c66e21",
+          "meta": 0
+        },
+        {
+          "name": "Aluminium Sheetmetal Slab",
+          "color": "#b9cac8",
+          "meta": 1
+        },
+        {
+          "name": "Lead Sheetmetal Slab",
+          "color": "#36393f",
+          "meta": 2
+        },
+        {
+          "name": "Silver Sheetmetal Slab",
+          "color": "#89a8a6",
+          "meta": 3
+        },
+        {
+          "name": "Nickel Sheetmetal Slab",
+          "color": "#767b6c",
+          "meta": 4
+        },
+        {
+          "name": "Uranium Sheetmetal Slab",
+          "color": "#4f7252",
+          "meta": 5
+        },
+        {
+          "name": "Constantan Sheetmetal Slab",
+          "color": "#db664c",
+          "meta": 6
+        },
+        {
+          "name": "Electrum Sheetmetal Slab",
+          "color": "#e1a251",
+          "meta": 7
+        },
+        {
+          "name": "Iron Sheetmetal Slab",
+          "color": "#b2b2b2",
+          "meta": 9
+        },
+        {
+          "name": "Gold Sheetmetal Slab",
+          "color": "#a98e2e",
+          "meta": 10
+        }
+      ]
+    },
+    {
+      "uid": "immersiveengineering:stone_decoration",
+      "name": "Coke Brick",
+      "color": "#474747",
+      "alpha": 1.0,
+      "meta": 0,
+      "variants": [
+        {
+          "name": "Blast Brick",
+          "color": "#3e1f15",
+          "meta": 1
+        },
+        {
+          "name": "Reinforced Blast Brick",
+          "color": "#4a3832",
+          "meta": 2
+        },
+        {
+          "name": "Block of Coal Coke",
+          "color": "#272727",
+          "meta": 3
+        },
+        {
+          "name": "Hempcrete",
+          "color": "#55544d",
+          "meta": 4
+        },
+        {
+          "name": "Concrete",
+          "color": "#776d66",
+          "meta": 5
+        },
+        {
+          "name": "Concrete Tile",
+          "color": "#776d65",
+          "meta": 6
+        },
+        {
+          "name": "Leaded Concrete",
+          "color": "#605b5d",
+          "meta": 7
+        },
+        {
+          "name": "Insulating Glass",
+          "color": "#21b163",
+          "meta": 8
+        },
+        {
+          "name": "Quickdry Concrete",
+          "color": "#ffffff",
+          "meta": 9
+        },
+        {
+          "name": "Kiln Brick",
+          "color": "#6d473c",
+          "meta": 10
+        }
+      ]
+    },
+    {
+      "uid": "immersiveengineering:stone_decoration_slab",
+      "name": "Coke Brick Slab",
+      "color": "#474747",
+      "alpha": 1.0,
+      "meta": 0,
+      "variants": [
+        {
+          "name": "Blast Brick Slab",
+          "color": "#3e1f15",
+          "meta": 1
+        },
+        {
+          "name": "Reinforced Blast Brick Slab",
+          "color": "#4a3832",
+          "meta": 2
+        },
+        {
+          "name": "Coal Coke Slab",
+          "color": "#272727",
+          "meta": 3
+        },
+        {
+          "name": "Hempcrete Slab",
+          "color": "#55544d",
+          "meta": 4
+        },
+        {
+          "name": "Concrete Slab",
+          "color": "#776d66",
+          "meta": 5
+        },
+        {
+          "name": "Concrete Tile Slab",
+          "color": "#776d65",
+          "meta": 6
+        },
+        {
+          "name": "Leaded Concrete Slab",
+          "color": "#605b5d",
+          "meta": 7
+        },
+        {
+          "name": "Insulating Glass Slab",
+          "color": "#21b163",
+          "meta": 8
+        },
+        {
+          "name": "IESlab",
+          "color": "#ffffff",
+          "meta": 9
+        },
+        {
+          "name": "Kiln Brick Slab",
+          "color": "#6d473c",
+          "meta": 10
+        }
+      ]
+    },
+    {
+      "uid": "immersiveengineering:stone_decoration_stairs_concrete",
+      "name": "Concrete Stairs",
+      "color": "#776d66",
+      "alpha": 1.0,
+      "meta": 7
+    },
+    {
+      "uid": "immersiveengineering:stone_decoration_stairs_concrete_leaded",
+      "name": "Leaded Concrete Stairs",
+      "color": "#605b5d",
+      "alpha": 1.0,
+      "meta": 7
+    },
+    {
+      "uid": "immersiveengineering:stone_decoration_stairs_concrete_tile",
+      "name": "Concrete Tile Stairs",
+      "color": "#776d65",
+      "alpha": 1.0,
+      "meta": 7
+    },
+    {
+      "uid": "immersiveengineering:stone_decoration_stairs_hempcrete",
+      "name": "Hempcrete Stairs",
+      "color": "#55544d",
+      "alpha": 1.0,
+      "meta": 7
+    },
+    {
+      "uid": "immersiveengineering:stone_device",
+      "name": "Coke Oven",
+      "color": "#474747",
+      "alpha": 1.0,
+      "meta": 0,
+      "variants": [
+        {
+          "name": "Crude Blast Furnace",
+          "color": "#3e1f16",
+          "meta": 1
+        },
+        {
+          "name": "Concrete Chunk",
+          "color": "#776d66",
+          "meta": 5
+        },
+        {
+          "name": "Core Sample",
+          "color": "#ffffff",
+          "meta": 6
+        },
+        {
+          "name": "Alloy Kiln",
+          "color": "#7b5b4a",
+          "meta": 7
+        }
+      ]
+    },
+    {
+      "uid": "immersiveengineering:storage",
+      "name": "Block of Uranium",
+      "color": "#4e4e4e",
+      "alpha": 1.0,
+      "meta": 5,
+      "variants": [
+        {
+          "name": "Block of Copper",
+          "color": "#6ec6a0",
+          "meta": 0
+        },
+        {
+          "name": "Block of Aluminium",
+          "color": "#bbccca",
+          "meta": 1
+        },
+        {
+          "name": "Block of Lead",
+          "color": "#46495b",
+          "meta": 2
+        },
+        {
+          "name": "Block of Silver",
+          "color": "#aad4d4",
+          "meta": 3
+        },
+        {
+          "name": "Block of Nickel",
+          "color": "#949a8a",
+          "meta": 4
+        },
+        {
+          "name": "Block of Constantan",
+          "color": "#ce6d56",
+          "meta": 6
+        },
+        {
+          "name": "Block of Electrum",
+          "color": "#ebd07f",
+          "meta": 7
+        },
+        {
+          "name": "Block of Steel",
+          "color": "#525252",
+          "meta": 8
+        }
+      ]
+    },
+    {
+      "uid": "immersiveengineering:storage_slab",
+      "name": "Steel Slab",
+      "color": "#525252",
+      "alpha": 1.0,
+      "meta": 8,
+      "variants": [
+        {
+          "name": "Aluminium Slab",
+          "color": "#bbccca",
+          "meta": 1
+        },
+        {
+          "name": "Lead Slab",
+          "color": "#46495b",
+          "meta": 2
+        },
+        {
+          "name": "Silver Slab",
+          "color": "#aad4d4",
+          "meta": 3
+        },
+        {
+          "name": "Nickel Slab",
+          "color": "#949a8a",
+          "meta": 4
+        },
+        {
+          "name": "Uranium Slab",
+          "color": "#6ec6a0",
+          "meta": 5
+        },
+        {
+          "name": "Constantan Slab",
+          "color": "#ce6d56",
+          "meta": 6
+        },
+        {
+          "name": "Electrum Slab",
+          "color": "#ebd07f",
+          "meta": 7
+        }
+      ]
+    },
+    {
+      "uid": "immersiveengineering:treated_wood",
+      "name": "Treated Wood Planks",
+      "color": "#542f1f",
+      "alpha": 1.0,
+      "meta": 0,
+      "variants": [
+        {
+          "color": "#4d2d1e",
+          "meta": 1
+        },
+        {
+          "color": "#4d2d1f",
+          "meta": 2
+        }
+      ]
+    },
+    {
+      "uid": "immersiveengineering:treated_wood_slab",
+      "name": "Treated Wood Slab",
+      "color": "#542f1f",
+      "alpha": 1.0,
+      "meta": 0,
+      "variants": [
+        {
+          "color": "#4d2d1e",
+          "meta": 1
+        },
+        {
+          "color": "#4d2d1f",
+          "meta": 2
+        }
+      ]
+    },
+    {
+      "uid": "immersiveengineering:treated_wood_stairs0",
+      "name": "Treated Wood Stairs",
+      "color": "#542f1f",
+      "alpha": 1.0,
+      "meta": 7
+    },
+    {
+      "uid": "immersiveengineering:treated_wood_stairs1",
+      "name": "Treated Wood Stairs",
+      "color": "#4d2d1e",
+      "alpha": 1.0,
+      "meta": 7
+    },
+    {
+      "uid": "immersiveengineering:treated_wood_stairs2",
+      "name": "Treated Wood Stairs",
+      "color": "#4d2d1f",
+      "alpha": 1.0,
+      "meta": 7
+    },
+    {
+      "uid": "immersiveengineering:wooden_decoration",
+      "name": "Treated Wood Scaffolding",
+      "color": "#542f1f",
+      "alpha": 1.0,
+      "meta": 1
+    },
+    {
+      "uid": "immersiveengineering:wooden_device0",
+      "name": "Engineer\u0027s Workbench",
+      "color": "#ffffff",
+      "alpha": 1.0,
+      "meta": 2,
+      "variants": [
+        {
+          "name": "Wooden Storage Crate",
+          "color": "#482719",
+          "meta": 0
+        },
+        {
+          "name": "Wooden Barrel",
+          "color": "#532e1d",
+          "meta": 1
+        },
+        {
+          "name": "Item Router",
+          "color": "#524e4c",
+          "meta": 3
+        },
+        {
+          "name": "Gunpowder Barrel",
+          "color": "#452a1d",
+          "meta": 4
+        },
+        {
+          "name": "Reinforced Storage Crate",
+          "color": "#473933",
+          "meta": 5
+        },
+        {
+          "name": "Turntable",
+          "color": "#664738",
+          "meta": 6
+        },
+        {
+          "name": "Fluid Router",
+          "color": "#4b4745",
+          "meta": 7
+        }
+      ]
+    },
+    {
+      "uid": "immersiveengineering:wooden_device1",
+      "name": "Wooden Wallmount",
+      "color": "#ffffff",
+      "alpha": 1.0,
+      "meta": 4,
+      "variants": [
+        {
+          "name": "Water Wheel",
+          "color": "#2c1912",
+          "meta": 0
+        },
+        {
+          "name": "Windmill",
+          "color": "#554539",
+          "meta": 1
+        },
+        {
+          "name": "Improved Windmill",
+          "color": "#b5a796",
+          "meta": 2
+        },
+        {
+          "name": "Wooden Post",
+          "color": "#493328",
+          "meta": 3
+        }
+      ]
+    },
+    {
       "uid": "inventorypets:cloud",
       "name": "Air",
       "color": "#e8feff",
@@ -6217,14 +14551,14 @@ var colorpalette={
     },
     {
       "uid": "minecraft:fence",
-      "name": "Fence",
+      "name": "Oak Fence",
       "color": "#68503a",
       "alpha": 0.4,
       "meta": 0
     },
     {
       "uid": "minecraft:fence_gate",
-      "name": "Fence Gate",
+      "name": "Oak Fence Gate",
       "color": "#68503a",
       "alpha": 0.4,
       "meta": 15
@@ -6246,7 +14580,7 @@ var colorpalette={
     {
       "uid": "minecraft:flowing_lava",
       "name": "Air",
-      "color": "#de5200",
+      "color": "#df5100",
       "alpha": 1.0,
       "meta": 15
     },
@@ -6507,7 +14841,7 @@ var colorpalette={
     {
       "uid": "minecraft:lava",
       "name": "Air",
-      "color": "#de5200",
+      "color": "#df5100",
       "alpha": 1.0,
       "meta": 15
     },
@@ -6592,7 +14926,7 @@ var colorpalette={
     },
     {
       "uid": "minecraft:lit_pumpkin",
-      "name": "Jack \u0027o\u0027 Lantern",
+      "name": "Jack o\u0027Lantern",
       "color": "#d98012",
       "alpha": 1.0,
       "meta": 2,
@@ -7577,83 +15911,83 @@ var colorpalette={
     },
     {
       "uid": "minecraft:stained_hardened_clay",
-      "name": "Light Gray Hardened Clay",
+      "name": "Light Gray Stained Clay",
       "color": "#9f8c7f",
       "alpha": 1.0,
       "meta": 8,
       "variants": [
         {
-          "name": "White Hardened Clay",
+          "name": "White Stained Clay",
           "color": "#d6cebd",
           "meta": 0
         },
         {
-          "name": "Orange Hardened Clay",
+          "name": "Orange Stained Clay",
           "color": "#cd7f3e",
           "meta": 1
         },
         {
-          "name": "Magenta Hardened Clay",
+          "name": "Magenta Stained Clay",
           "color": "#864b5c",
           "meta": 2
         },
         {
-          "name": "Light Blue Hardened Clay",
+          "name": "Light Blue Stained Clay",
           "color": "#4e5c6d",
           "meta": 3
         },
         {
-          "name": "Yellow Hardened Clay",
+          "name": "Yellow Stained Clay",
           "color": "#d3b670",
           "meta": 4
         },
         {
-          "name": "Lime Hardened Clay",
+          "name": "Lime Stained Clay",
           "color": "#50552b",
           "meta": 5
         },
         {
-          "name": "Pink Hardened Clay",
+          "name": "Pink Stained Clay",
           "color": "#8d5045",
           "meta": 6
         },
         {
-          "name": "Gray Hardened Clay",
+          "name": "Gray Stained Clay",
           "color": "#363635",
           "meta": 7
         },
         {
-          "name": "Cyan Hardened Clay",
+          "name": "Cyan Stained Clay",
           "color": "#434446",
           "meta": 9
         },
         {
-          "name": "Purple Hardened Clay",
+          "name": "Purple Stained Clay",
           "color": "#643b49",
           "meta": 10
         },
         {
-          "name": "Blue Hardened Clay",
+          "name": "Blue Stained Clay",
           "color": "#334351",
           "meta": 11
         },
         {
-          "name": "Brown Hardened Clay",
+          "name": "Brown Stained Clay",
           "color": "#4e4125",
           "meta": 12
         },
         {
-          "name": "Green Hardened Clay",
+          "name": "Green Stained Clay",
           "color": "#363c1c",
           "meta": 13
         },
         {
-          "name": "Red Hardened Clay",
+          "name": "Red Stained Clay",
           "color": "#733f30",
           "meta": 14
         },
         {
-          "name": "Black Hardened Clay",
+          "name": "Black Stained Clay",
           "color": "#131313",
           "meta": 15
         }
@@ -7782,7 +16116,7 @@ var colorpalette={
     },
     {
       "uid": "minecraft:stone_stairs",
-      "name": "Stone Stairs",
+      "name": "Cobblestone Stairs",
       "color": "#706b5e",
       "alpha": 1.0,
       "meta": 7
@@ -7841,7 +16175,7 @@ var colorpalette={
     },
     {
       "uid": "minecraft:trapdoor",
-      "name": "Trapdoor",
+      "name": "Wooden Trapdoor",
       "color": "#473d32",
       "alpha": 1.0,
       "meta": 15
@@ -8106,6 +16440,111 @@ var colorpalette={
       "color": "#b6ab31",
       "alpha": 1.0,
       "meta": 5
+    },
+    {
+      "uid": "oreshrubs:oreshrub_aluminum",
+      "name": "Ore Shrub",
+      "color": "#b0b0b0",
+      "alpha": 1.0,
+      "meta": 4
+    },
+    {
+      "uid": "oreshrubs:oreshrub_burned",
+      "name": "Burned Ore Shrub",
+      "color": "#3d3d3d",
+      "alpha": 1.0,
+      "meta": 0
+    },
+    {
+      "uid": "oreshrubs:oreshrub_copper",
+      "name": "Ore Shrub",
+      "color": "#b0b0b0",
+      "alpha": 1.0,
+      "meta": 4
+    },
+    {
+      "uid": "oreshrubs:oreshrub_custom_ardite",
+      "name": "Ore Shrub",
+      "color": "#b0b0b0",
+      "alpha": 1.0,
+      "meta": 4
+    },
+    {
+      "uid": "oreshrubs:oreshrub_custom_cobalt",
+      "name": "Ore Shrub",
+      "color": "#b0b0b0",
+      "alpha": 1.0,
+      "meta": 4
+    },
+    {
+      "uid": "oreshrubs:oreshrub_custom_quartz",
+      "name": "Ore Shrub",
+      "color": "#b0b0b0",
+      "alpha": 1.0,
+      "meta": 4
+    },
+    {
+      "uid": "oreshrubs:oreshrub_experience",
+      "name": "Ore Shrub",
+      "color": "#b0b0b0",
+      "alpha": 1.0,
+      "meta": 4
+    },
+    {
+      "uid": "oreshrubs:oreshrub_gold",
+      "name": "Ore Shrub",
+      "color": "#b0b0b0",
+      "alpha": 1.0,
+      "meta": 4
+    },
+    {
+      "uid": "oreshrubs:oreshrub_iron",
+      "name": "Ore Shrub",
+      "color": "#b0b0b0",
+      "alpha": 1.0,
+      "meta": 4
+    },
+    {
+      "uid": "oreshrubs:oreshrub_lead",
+      "name": "Ore Shrub",
+      "color": "#b0b0b0",
+      "alpha": 1.0,
+      "meta": 4
+    },
+    {
+      "uid": "oreshrubs:oreshrub_nickel",
+      "name": "Ore Shrub",
+      "color": "#b0b0b0",
+      "alpha": 1.0,
+      "meta": 4
+    },
+    {
+      "uid": "oreshrubs:oreshrub_random",
+      "name": "Random Shrub",
+      "color": "#b0b0b0",
+      "alpha": 1.0,
+      "meta": 4
+    },
+    {
+      "uid": "oreshrubs:oreshrub_silver",
+      "name": "Ore Shrub",
+      "color": "#b0b0b0",
+      "alpha": 1.0,
+      "meta": 4
+    },
+    {
+      "uid": "oreshrubs:oreshrub_uranium",
+      "name": "Ore Shrub",
+      "color": "#b0b0b0",
+      "alpha": 1.0,
+      "meta": 4
+    },
+    {
+      "uid": "oreshrubs:shrubtrap",
+      "name": "Shrub Trap",
+      "color": "#3d3d3d",
+      "alpha": 1.0,
+      "meta": 0
     },
     {
       "uid": "rftools:block_protector",
@@ -9220,6 +17659,20 @@ var colorpalette={
       "meta": 15
     },
     {
+      "uid": "tconstruct:molten_alubrass",
+      "name": "Molten Aluminum Brass",
+      "color": "#b5b5b5",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "tconstruct:molten_aluminum",
+      "name": "Molten Aluminum",
+      "color": "#b5b5b5",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
       "uid": "tconstruct:molten_ardite",
       "name": "Molten Ardite",
       "color": "#b5b5b5",
@@ -9258,6 +17711,13 @@ var colorpalette={
       "uid": "tconstruct:molten_dirt",
       "name": "Liquid Dirt",
       "color": "#858585",
+      "alpha": 1.0,
+      "meta": 15
+    },
+    {
+      "uid": "tconstruct:molten_electrum",
+      "name": "Molten Electrum",
+      "color": "#b5b5b5",
       "alpha": 1.0,
       "meta": 15
     },
@@ -10024,6 +18484,55 @@ var colorpalette={
         {
           "color": "#80663c",
           "meta": 5
+        }
+      ]
+    },
+    {
+      "uid": "xnet:controller",
+      "name": "Controller",
+      "color": "#7f595c",
+      "alpha": 1.0,
+      "meta": 1,
+      "variants": [
+        {
+          "color": "#656669",
+          "meta": 0
+        },
+        {
+          "color": "#5d726d",
+          "meta": 1
+        },
+        {
+          "color": "#6b6c6f",
+          "meta": 5
+        }
+      ]
+    },
+    {
+      "uid": "xnet:redstone_proxy",
+      "name": "Redstone Proxy",
+      "color": "#546c63",
+      "alpha": 1.0,
+      "meta": 0
+    },
+    {
+      "uid": "xnet:router",
+      "name": "Router",
+      "color": "#6b6c6f",
+      "alpha": 1.0,
+      "meta": 5,
+      "variants": [
+        {
+          "color": "#656669",
+          "meta": 0
+        },
+        {
+          "color": "#647974",
+          "meta": 1
+        },
+        {
+          "color": "#866b6e",
+          "meta": 1
         }
       ]
     }

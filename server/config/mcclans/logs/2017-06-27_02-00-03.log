@@ -1,7 +1,0 @@
-02:00:03 [i] Registered to Nucleus message token service
-02:00:03 [i] Starting load from flat file...
-02:00:03 [i] Detected data version 2
-02:00:03 [i] Finished loading in: 59ms
-02:00:03 [i] Registered backup task to run every 86400s (24h), starting in 82036s
-02:12:46 [i] Starting save to flat file..
-02:12:46 [i] Successfully saved to flat file in: 24ms
